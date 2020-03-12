@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: My Brief Curriculum Vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,52 +8,39 @@ redirect_from:
 ---
 
 {% include base_path %}
+My <a href="https://cshlzhang.github.io/files/cv.pdf" target="_blank">full CV in PDF</a> is also available.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, 2017-2021(expected)
+* **South China University of Technology**
+* GPA: 3.90/4.0
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019.11 - Now: Research Assistant
+  * Sun-yat-sen University, Guangzhou, China.
+  * Duties included: Combine machine learning and symbolic reasoning. Drug Discovery.
+  * Supervisor: Prof. Xiaodan Liang
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2020.1 - Now: Research Intern
+  * Mila-Quebec AI Institute, Montreal, Canada.
+  * Duties included: Logical reasoning over text.
+  * Supervisor: Prof. Jian Tang
+
+* July 2019 – Oct. 2019: Research Assistant
+  * University of Alberta, Edmonton, Canada.
+  * Duties included: Factorizing user actions for next-day purchase recommendation.
+  * Supervisor: Prof. Di Niu
+
+* April 2019 – Aug. 2019: Research Assistant
+  * University of Alberta, Edmonton, Canada.
+  * Duties included: fMRI brain network dynamics modelling.
+  * Supervisor: Prof. Ivor Cribben
+
   
-Talks
+Honors and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Undergraduate Oversea Research Scholarship (CAD $9000) , China Scholarship Council, 2019
+* National Scholarship (ranking: 1st / 140), 2018
