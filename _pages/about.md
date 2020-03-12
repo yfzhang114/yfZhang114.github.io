@@ -16,7 +16,7 @@ Here is my Curriculum Vitae in [pdf](../files/CV.pdf) or [web](https://cshlzhang
 
 Research Interests
 ======
-My research interest broadly lies in machine learning and artificial intelligence in general. I'm currently working in developing AI capable of learning both from concrete examples (as DNNs do) and abstract knowledge (definitions, logic rules, etc) with [integration](http://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/proseminars/Proseminar13/ConnectionistArchitecture.pdf) of low-level perception with high-level reasoning.
+My research interest broadly lies in machine learning and artificial intelligence in general. I'm currently working in developing AI capable of learning both from concrete examples (as DNNs do) and abstract knowledge (definitions, logic rules, etc) with [integration](http://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/proseminars/Proseminar13/ConnectionistArchitecture.pdf) of low-level perception and high-level reasoning.
 
 Publications
 ======
