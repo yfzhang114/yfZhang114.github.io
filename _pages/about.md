@@ -12,11 +12,11 @@ Hi, I'm a junior student majoring in Computer Science in [South China University
 
 **As a PhD applicant for Fall 2021, I'm actively seeking for potential collaborations and positions.**
 
-Here is my Curriculum Vitae ([CV](../files/CV.pdf)).
+Here is my Curriculum Vitae in [pdf](../files/CV.pdf) or [web](https://cshlzhang.github.io/cv/).
 
 Research Interests
 ======
-My research interest broadly lies in machine learning and artificial intelligence in general. I'm currently working in developing AI capable of learning both from concrete examples (as DNNs do) and abstract knowledge (definitions, logic rules, etc) with (integration)[http://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/proseminars/Proseminar13/ConnectionistArchitecture.pdf] of low-level perception with high-level reasoning.
+My research interest broadly lies in machine learning and artificial intelligence in general. I'm currently working in developing AI capable of learning both from concrete examples (as DNNs do) and abstract knowledge (definitions, logic rules, etc) with (integration)[../files/integration.pdf] of low-level perception with high-level reasoning.
 
 Publications
 ======

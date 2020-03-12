@@ -13,7 +13,7 @@ My <a href="https://cshlzhang.github.io/files/cv.pdf" target="_blank">full CV in
 Education
 ======
 * B.S. in Computer Science, 2017-2021(expected)
-* **South China University of Technology**
+* South China University of Technology
 * GPA: 3.90/4.0
 
 Work experience
