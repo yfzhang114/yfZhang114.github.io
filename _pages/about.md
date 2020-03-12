@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm a junior student majoring in Computer Science in [South China University of Technology, Guangzhou](http://www.scut.edu.cn/english/index.html). I'm currently a research assistant in HCP lab at SYSU, advised by Prof. [Xiaodan Liang](https://www.cs.cmu.edu/~xiaodan1/). I'm also an research intern in [Mila](https://mila.quebec/en/), working closely with Prof. [Jian Tang](https://jian-tang.com/). Before that, I was an research intern in Univeristy of Alberta, working with Prof. [Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html) and Prof. [Ivor Cribben](https://www.ualberta.ca/business/about/contact-us/school-directory/ivor-cribben).
 
-**As a PhD application for Fall 2021, I'm actively potential collaborations and positions.**
+**As a PhD applicant for Fall 2021, I'm actively seeking for potential collaborations and positions.**
 
 Here is my Curriculum Vitae ([CV](../files/CV.pdf)).
 
