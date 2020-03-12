@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Bang Liu, Hanlin Zhang, Di Niu, Linglong Kong, “Factorizing Historical User Actions for Next-Day Purchase Prediction," under review to ACM Transactions on the Web (TWEB), 2019
