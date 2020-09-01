@@ -22,7 +22,7 @@ Research Interests
 
 Publications
 ======
-1. {Wangchunshu Zhou*, Jinyi Hu*, Hanlin Zhang*(Co-first Author)}, Xiaodan Liang, ChenyanXiong, Maosong Sun, Jian Tang, ["Towards Interpretable Natural Language Understanding with Explanations as Latent Variables"](../files/NeurIPS2020.pdf), under submission toNeural Information Processing Systems (NeurIPS),2020
+1. {Wangchunshu Zhou, Jinyi Hu, Hanlin Zhang*(Co-first Author)}, Xiaodan Liang, ChenyanXiong, Maosong Sun, Jian Tang, ["Towards Interpretable Natural Language Understanding with Explanations as Latent Variables"](../files/NeurIPS2020.pdf), under submission toNeural Information Processing Systems (NeurIPS),2020
 
 2. Yuan Yang, Hanlin Zhang, Xiaodan Liang, Le Song, ["Learning by Asking Commonsense Questions"](../files/logic.pdf), preprint]
   
