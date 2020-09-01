@@ -22,13 +22,13 @@ Research Interests
 
 Publications
 ======
-1. [Wangchunshu Zhou*, Jinyi Hu*, Hanlin Zhang*(Co-first Author), Xiaodan Liang, ChenyanXiong, Maosong Sun, Jian Tang, "Towards Interpretable Natural Languag Understanding with Explanations as Latent Variables", under submission toNeural Information Processing Systems (NeurIPS),2020](../files/NeurIPS2020.pdf)
+1. Wangchunshu Zhou*, Jinyi Hu*, Hanlin Zhang*(Co-first Author), Xiaodan Liang, ChenyanXiong, Maosong Sun, Jian Tang, ["Towards Interpretable Natural Languag Understanding with Explanations as Latent Variables"](../files/NeurIPS2020.pdf), under submission toNeural Information Processing Systems (NeurIPS),2020
 
-2. [Yuan Yang, Hanlin Zhang, Xiaodan Liang, Le Song, "Learning by Asking Commonsense Questions", preprint](../files/logic.pdf)
+2. Yuan Yang, Hanlin Zhang, Xiaodan Liang, Le Song, ["Learning by Asking Commonsense Questions"](../files/logic.pdf), preprint]
   
-3. [Bang Liu, Hanlin Zhang, Di Niu, Linglong Kong, “Factorizing Historical User Actions for Next-Day Purchase Prediction," under submission to ACM Transactions on the Web (TWEB), 2019](../files/TWEB.pdf)
+3. Bang Liu, Hanlin Zhang, Di Niu, Linglong Kong, [“Factorizing Historical User Actions for Next-Day Purchase Prediction,"](../files/TWEB.pdf) under submission to ACM Transactions on the Web (TWEB), 2019
 
-4. [Hanlin Zhang, Ivor Cribben, "On Time-varing Graphical Lasso for Functional Brain Connectivity Network Dynamics Inference", under submission toIEEE Transactions on Biomedical Engineering (TBME), 2019](../files/fMRI.pdf)
+4. Hanlin Zhang, Ivor Cribben, ["On Time-varing Graphical Lasso for Functional Brain Connectivity Network Dynamics Inference"](../files/fMRI.pdf), under submission toIEEE Transactions on Biomedical Engineering (TBME), 2019
 
 For more info
 ------
