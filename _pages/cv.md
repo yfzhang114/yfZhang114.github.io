@@ -22,22 +22,22 @@ Work experience
 
 * 2020.1 - Now: Research Intern
   * Mila-Quebec AI Institute, Montreal, Canada.
-  * Duties included: Logical reasoning over text.
+  * Duties included: Towards Interpretable Natural Language Understanding with Explanations as Latent Variables
   * Supervisor: Prof. Jian Tang
 
 * 2019.11 - Now: Research Assistant
   * Sun-yat-sen University, Guangzhou, China.
-  * Duties included: Combine machine learning and symbolic reasoning. Drug Discovery.
+  * Duties included: Learning Energy-based Models for Molecular Graph Generation.
   * Supervisor: Prof. Eric Xing and Prof. Xiaodan Liang
 
 * July 2019 – Oct. 2019: Research Assistant
   * University of Alberta, Edmonton, Canada.
-  * Duties included: Factorizing user actions for next-day purchase recommendation.
+  * Duties included: Factorizing User Actions for Next-day Purchase Recommendation.
   * Supervisor: Prof. Di Niu and Prof.Bang Liu
 
 * April 2019 – Aug. 2019: Research Assistant
   * University of Alberta, Edmonton, Canada.
-  * Duties included: fMRI brain network dynamics modelling.
+  * Duties included: fMRI Brain Network Dynamics Modelling.
   * Supervisor: Prof. Ivor Cribben
 
   
