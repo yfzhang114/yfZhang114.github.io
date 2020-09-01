@@ -8,19 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a junior student majoring in Computer Science in [South China University of Technology, Guangzhou](http://www.scut.edu.cn/english/index.html). I'm currently a research assistant in HCP lab at SYSU, advised by Prof. [Xiaodan Liang](https://www.cs.cmu.edu/~xiaodan1/). I'm also a research intern in [Mila](https://mila.quebec/en/), working closely with Prof. [Jian Tang](https://jian-tang.com/). Before that, I was a research intern in Univeristy of Alberta, working with Prof. [Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html) and Prof. [Ivor Cribben](https://www.ualberta.ca/business/about/contact-us/school-directory/ivor-cribben).
+Hi, I'm a junior student majoring in Computer Science in [South China University of Technology, Guangzhou](http://www.scut.edu.cn/english/index.html). I'm a research intern in [Mila](https://mila.quebec/en/), working closely with Prof. [Jian Tang](https://jian-tang.com/). I'm also conducting reasearch with Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/) and Prof. [Xiaodan Liang](https://www.cs.cmu.edu/~xiaodan1/). Before that, I was a research intern in Univeristy of Alberta, working with Prof. [Di Niu] (https://sites.ualberta.ca/~dniu/Homepage/Home.html), Prof. [Bang Liu](https://sites.ualberta.ca/~bang3/)  and Prof. [Ivor Cribben](https://www.ualberta.ca/business/about/contact-us/school-directory/ivor-cribben).
 
 **As a PhD applicant for Fall 2021, I'm actively seeking for potential collaborations and positions.**
 
-Here is my Curriculum Vitae in [pdf](../files/CV.pdf) or on [web](https://cshlzhang.github.io/cv/).
+Here is my Curriculum Vitae in [pdf](../files/hanlin_CV.pdf) or on [web](https://cshlzhang.github.io/cv/).
 
 Research Interests
 ======
-My research interest broadly lies in machine learning and artificial intelligence in general. I'm currently working in developing AI capable of learning both from concrete examples (as DNNs do) and abstract knowledge (definitions, logic rules, etc) with [integration](http://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/proseminars/Proseminar13/ConnectionistArchitecture.pdf) of low-level perception and high-level reasoning.
+
+* Unsupervised Learning: deep generative models, contrastive learning
+* Neural-symbolic Reasoning: logic induction, object-oriented learning
 
 Publications
 ======
-1. Bang Liu, Hanlin Zhang, Di Niu, Linglong Kong, “Factorizing Historical User Actions for Next-Day Purchase Prediction," under review to ACM Transactions on the Web (TWEB), 2019
+1. [Wangchunshu Zhou*, Jinyi Hu*, Hanlin Zhang*(Co-first Author), Xiaodan Liang, ChenyanXiong, Maosong Sun, Jian Tang, "Towards Interpretable Natural Languag Understanding with Explanations as Latent Variables", under submission toNeural Information Processing Systems (NeurIPS),2020](../files/NeurIPS2020.pdf)
+
+2. [Yuan Yang, Hanlin Zhang, Xiaodan Liang, Le Song, "Learning by Asking Commonsense Questions", preprint](../files/logic.pdf)
+  
+3. [Bang Liu, Hanlin Zhang, Di Niu, Linglong Kong, “Factorizing Historical User Actions for Next-Day Purchase Prediction," under submission to ACM Transactions on the Web (TWEB), 2019](../files/TWEB.pdf)
+
+4. [Hanlin Zhang, Ivor Cribben, "On Time-varing Graphical Lasso for Functional Brain Connectivity Network Dynamics Inference", under submission toIEEE Transactions on Biomedical Engineering (TBME), 2019](../files/fMRI.pdf)
 
 For more info
 ------

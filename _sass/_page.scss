@@ -326,7 +326,7 @@
   float: left;
   width: 60px;
   height: 100px;
-
+ 
   @include breakpoint($large) {
     width: 100px;
     height: 100px;
