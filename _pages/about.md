@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a senior student majoring in Computer Science in [South China University of Technology, Guangzhou](http://www.scut.edu.cn/english/index.html). I'm a research intern in [Mila](https://mila.quebec/en/), working closely with Prof. [Jian Tang](https://jian-tang.com/). I'm also conducting reasearch with Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/) and Prof. [Xiaodan Liang](https://www.cs.cmu.edu/~xiaodan1/). Before that, I was a research assistant in Univeristy of Alberta, working with Prof. [Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html), Prof. [Bang Liu](https://sites.ualberta.ca/~bang3/)  and Prof. [Ivor Cribben](https://www.ualberta.ca/business/about/contact-us/school-directory/ivor-cribben).
+Hi, I'm a senior student majoring in Computer Science in [South China University of Technology, Guangzhou](http://www.scut.edu.cn/english/index.html). I'm a research intern in [Mila](https://mila.quebec/en/), working closely with Prof. [Jian Tang](https://jian-tang.com/). I'm also conducting reasearch with Prof. [Eric P. Xing](http://www.cs.cmu.edu/~epxing/) and Prof. [Xiaodan Liang](https://www.cs.cmu.edu/~xiaodan1/). Before that, I was a research assistant in Univeristy of Alberta, working with Prof. [Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html), Prof. [Bang Liu](https://sites.ualberta.ca/~bang3/)  and Prof. [Ivor Cribben](https://www.ualberta.ca/business/about/contact-us/school-directory/ivor-cribben).
 
 **As a PhD applicant for Fall 2021, I'm actively seeking for potential collaborations and positions.**
 
