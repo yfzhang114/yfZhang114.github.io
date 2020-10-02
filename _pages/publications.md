@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. {Wangchunshu Zhou, Jinyi Hu, Hanlin Zhang* (equal contribution)}, Xiaodan Liang, ChenyanXiong, Maosong Sun, Jian Tang, ["Towards Interpretable Natural Language Understanding with Explanations as Latent Variables"](../files/NeurIPS2020.pdf), Neural Information Processing Systems (NeurIPS),2020
+1. {Wangchunshu Zhou, Jinyi Hu, Hanlin Zhang* (equal contribution)}, Xiaodan Liang, ChenyanXiong, Maosong Sun, Jian Tang, ["Towards Interpretable Natural Language Understanding with Explanations as Latent Variables"](../files/NeurIPS2020.pdf), Neural Information Processing Systems (NeurIPS), 2020
 
 2. Hanlin Zhang, Shuai Lin, Weiyang Liu, Pan Zhou, Jian Tang, Xiaodan Liang, Eric P. Xing, "Iterative Graph Self-Distillation", under submission to International Conference on Learning Representations (ICLR), 2021
   
