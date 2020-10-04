@@ -26,8 +26,7 @@ Here is my Curriculum Vitae in [pdf](../files/hanlin_CV.pdf) or on the [web](htt
 
 ( * denotes equal contribution)
 
-Preprints
-======
+## Preprints
 1. ["Learning by Asking Commonsense Questions"](../files/logic.pdf). Yuan Yang, Hanlin Zhang. Preprint
    
 2. ["On Time-varing Graphical Lasso for Functional Brain Connectivity Network Dynamics Inference"](../files/fMRI.pdf). Hanlin Zhang, Ivor Cribben. Preprint
