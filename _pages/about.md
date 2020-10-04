@@ -22,7 +22,7 @@ Here is my Curriculum Vitae in [pdf](../files/hanlin_CV.pdf) or on the [web](htt
 
 2. ["Iterative Graph Self-Distillation"](../files/ICLR2021.pdf). Hanlin Zhang, Shuai Lin, Weiyang Liu, Pan Zhou, Jian Tang, Xiaodan Liang, Eric P. Xing. Under submission to Ninth International Conference on Learning Representations (**ICLR 2021**)
   
-3. [“Factorizing Historical User Actions for Next-Day Purchase Prediction,"](../files/TWEB.pdf). Bang Liu, Hanlin Zhang, Di Niu, Linglong Kong. Under submission to ACM Transactions on the Web (TWEB), 2020
+3. [“Factorizing Historical User Actions for Next-Day Purchase Prediction,"](../files/TWEB.pdf). Bang Liu, Hanlin Zhang, Di Niu, Linglong Kong. Under submission to ACM Transactions on the Web (**TWEB 2020**)
 
 ( * denotes equal contribution)
 
