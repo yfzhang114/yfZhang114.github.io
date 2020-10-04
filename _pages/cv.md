@@ -28,7 +28,7 @@ Work experience
 * 2019.11 - Now: Research Assistant
   * Sun-yat-sen University, Guangzhou, China.
   * Duties included: Learning Energy-based Models for Molecular Graph Generation. Contrastive graph representation learning via self-distillation.
-  * Supervisor: Prof. Eric Xing and Prof. Xiaodan Liang
+  * Supervisor: Prof. Eric P. Xing and Prof. Xiaodan Liang
 
 * July 2019 – Oct. 2019: Research Assistant
   * University of Alberta, Edmonton, Canada.
