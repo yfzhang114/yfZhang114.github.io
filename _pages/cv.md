@@ -20,25 +20,25 @@ Work experience
 ======
 
 
-* 2020.1 - Now: Research Intern
+* 2020.2 - Now: Research Intern
   * Mila-Quebec AI Institute, Montreal, Canada.
   * Duties included: Towards Interpretable Natural Language Understanding with Explanations as Latent Variables.
-  * Supervisor: Prof. Jian Tang
+  * Advisor: Prof. Jian Tang
 
 * 2019.11 - Now: Research Assistant
   * Sun-yat-sen University, Guangzhou, China.
-  * Duties included: Learning Energy-based Models for Molecular Graph Generation. Contrastive graph representation learning via self-distillation.
-  * Supervisor: Prof. Eric P. Xing and Prof. Xiaodan Liang
+  * Duties included: 1. Learning Energy-based Models for Molecular Graph Generation. 2. Contrastive graph representation learning via self-distillation. 3. Active Learning over knowledge graphs via neural logic inductive learning
+  * Advisor: Prof. Eric P. Xing and Prof. Xiaodan Liang
 
 * July 2019 – Oct. 2019: Research Assistant
   * University of Alberta, Edmonton, Canada.
   * Duties included: Factorizing User Actions for Next-day Purchase Recommendation.
-  * Supervisor: Prof. Di Niu and Prof. Bang Liu
+  * Advisor: Prof. Di Niu and Prof. Bang Liu
 
 * April 2019 – Aug. 2019: Research Assistant
   * University of Alberta, Edmonton, Canada.
   * Duties included: fMRI Brain Network Dynamics Modelling.
-  * Supervisor: Prof. Ivor Cribben
+  * Advisor: Prof. Ivor Cribben
 
   
 Honors and Awards
