@@ -10,7 +10,7 @@ locale                   : "Guangzhou-CN"
 title                    : "Hanlin Zhang (张汉林)"
 title_separator          : "-"
 name                     : &name "Hanlin Zhang"
-description              : &description "A senior student from South China University of Technology"
+description              : &description "Undergraduate student in South China University of Technology"
 url                      : https://cshlzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cshlzhang/cshlzhang.github.io" # TODO

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a senior student majoring in Computer Science in [South China University of Technology](http://www.scut.edu.cn/english/index.html). I'm a research intern in [Mila](https://mila.quebec/en/), working closely with Prof. [Jian Tang](https://jian-tang.com/). I'm also conducting reasearch with Prof. [Eric P. Xing](http://www.cs.cmu.edu/~epxing/) and Prof. [Xiaodan Liang](https://www.cs.cmu.edu/~xiaodan1/). Before that, I was a research assistant in Univeristy of Alberta, working with Prof. [Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html), Prof. [Bang Liu](https://sites.ualberta.ca/~bang3/) and Prof. [Ivor Cribben](https://www.ualberta.ca/business/about/contact-us/school-directory/ivor-cribben). I'm super fortunate to work closely with [Weiyang Liu](https://wyliu.com/).
+Hi, I'm a last-year undergraduate in South China University of Technology, majoring in Computer Science advised by Prof. [Eric P. Xing](http://www.cs.cmu.edu/~epxing/) and Prof. [Xiaodan Liang](https://www.cs.cmu.edu/~xiaodan1/). I'm also a research intern in [Mila](https://mila.quebec/en/), working closely with Prof. [Jian Tang](https://jian-tang.com/). Previously, I was a research assistant in Univeristy of Alberta, working with Prof. [Di Niu](https://sites.ualberta.ca/~dniu/Homepage/Home.html), Prof. [Bang Liu](https://sites.ualberta.ca/~bang3/) and Prof. [Ivor Cribben](https://www.ualberta.ca/business/about/contact-us/school-directory/ivor-cribben). I'm super fortunate to work closely with [Weiyang Liu](https://wyliu.com/).
 
 Here is my Curriculum Vitae in [pdf](../files/hanlin_CV.pdf) or on the [web](https://cshlzhang.github.io/cv/).
 
