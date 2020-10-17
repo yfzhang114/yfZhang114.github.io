@@ -14,7 +14,7 @@ Here is my Curriculum Vitae in [pdf](../files/hanlin_CV.pdf) or on the [web](htt
 
 **Research Interests**
 * Unsupervised Learning: deep generative models, contrastive learning
-* Neural-symbolic Reasoning: logic induction
+* Neural-Symbolic Reasoning: logic induction
 * Causality: causal inference
 
 ## Publications
