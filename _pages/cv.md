@@ -32,13 +32,14 @@ Work experience
 
 * July 2019 – Oct. 2019: Research Assistant
   * University of Alberta, Edmonton, Canada.
+  * Duties included: fMRI Brain Network Dynamics Modelling.
+  * Advisor: Prof. Ivor Cribben
+
+* April 2019 – July 2019: Research Assistant
+  * University of Alberta, Edmonton, Canada.
   * Duties included: Factorizing User Actions for Next-day Purchase Recommendation.
   * Advisor: Prof. Di Niu and Prof. Bang Liu
 
-* April 2019 – Aug. 2019: Research Assistant
-  * University of Alberta, Edmonton, Canada.
-  * Duties included: fMRI Brain Network Dynamics Modelling.
-  * Advisor: Prof. Ivor Cribben
 
   
 Honors and Awards
