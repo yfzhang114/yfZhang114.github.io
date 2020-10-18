@@ -33,3 +33,36 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 **2019**
 
  国家专利："一种基于动态模拟的飞机离场放行排序方法"
+
+## Work experience
+======
+
+
+* 2020.11 - Now: Research Assistant
+  * University of Chinese Academy of Sciences, Beijing, China.
+  * Duties included: 1. learning Deep Generative Model for pedestrian Generation. 2. Disentangled representation learning for structed world model. 3. Designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
+  * Advisor: Prof. Tieniu Tan and Prof. Zhang Zhang
+
+* July 2019 – Oct. 2020: Research Assistant
+  * Tsinghua University, Beijing, China.
+  * Duties included: Ubiquitous computing: Mobile sensing.
+  * Advisor: Prof. Yuan He
+
+* April 2018 – July 2020: Research Assistant
+  * South China University of Technology, Guangzhou, China.
+  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
+platforms, and federal learning platforms.
+  * Advisor: Prof. Xinglin Zhang
+
+
+  
+## Honors and Awards
+======
+* GuangFa Futures Scholarship (¥ 3000), 2020.
+* National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2020.
+* Hongping Evergreen Foundation Students Science and Technology Innovation Competition First-class Scholarship (¥ 3000), 2020.
+* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
+* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), Provincial first prize, 2019.
+* GuangFa Futures Scholarship (¥ 3000), 2019.
+* National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2019.
+* National Inspirational Scholarship (¥5000, ranking: 1st / 37), 2018.
