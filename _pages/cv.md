@@ -40,7 +40,10 @@ platforms, and federal learning platforms.
   
 Honors and Awards
 ======
-* Hongping evergreen foundation students science and technology innovation competition first-class scholarship, 2020
+* GuangFa Futures Scholarship (¥ 3000), 2020.
+* National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2020.
+* Hongping Evergreen Foundation Students Science and Technology Innovation Competition First-class Scholarship (¥ 3000), 2020.
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
-* National Inspirational Scholarship (ranking: 2st / 134), 2020
-* National Inspirational Scholarship (ranking: 1st / 37), 2018
+* GuangFa Futures Scholarship (¥ 3000), 2019.
+* National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2019.
+* National Inspirational Scholarship (¥5000, ranking: 1st / 37), 2018.
