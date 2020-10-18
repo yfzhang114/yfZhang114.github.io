@@ -22,6 +22,6 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 
 2. Yifan Zhang, Xinglin Zhang. ["BundleSense: A Task-Bundling-Based Incentive Mechanism for Mobile Crowd Sensing"](../files/BundleIncentive-icccn.pdf). International Conference on Computer Communications and Networks (**ICCCN 2020**)
   
-3. Feng Li, Yifan Zhang, Yingying Ma, and Hanlin Zhang. [“Modelling Multi-Exits Large-Venue Pedestrian Evacuation with Dual-Strategy Adaptive Particle Swarm Optimization"](../files/Particle swarm-Access.pdf). IEEE Access.
+3. Feng Li, Yifan Zhang, Yingying Ma, and Hanlin Zhang. ["Modelling Multi-Exits Large-Venue Pedestrian Evacuation with Dual-Strategy Adaptive Particle Swarm Optimization"](../files/Particle swarm-Access.pdf). IEEE Access.
 
 ( * denotes equal contribution)
