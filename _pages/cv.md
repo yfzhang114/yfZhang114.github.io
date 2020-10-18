@@ -20,17 +20,15 @@ Work experience
 ======
 
 
-* 2020.11 - Now: Research Assistant
+* August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
   * Duties included: 1. learning Deep Generative Model for pedestrian Generation. 2. Disentangled representation learning for structed world model. 3. Designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
   * Advisor: Prof. Tieniu Tan and Prof. Zhang Zhang
 
 * April 2018 – July 2020: Research Assistant
   * South China University of Technology, Guangzhou, China.
-  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
-platforms, and federal learning platforms.
+  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing platforms, and federal learning platforms.
   * Advisor: Prof. Xinglin Zhang
-
 
   
 Honors and Awards
