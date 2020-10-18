@@ -15,7 +15,7 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 * Unsupervised Learning: Deep Generative Models, Object Oriented Learning
 * Computer Vision: Pedestrian Re-IDentification, Object Detection
 * Causality: Causal Inference
-* Internet of Thimgs: CrowdSourcing, Incentive Mechanism Design
+* Internet of Things: CrowdSourcing, Incentive Mechanism Design
 
 ## Selected Publications
 **2020**
