@@ -31,7 +31,7 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 ## Work experience
 
 
-* 2020.11 - Now: Research Assistant
+* August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
   * Duties included: 1. learning Deep Generative Model for pedestrian Generation. 2. Disentangled representation learning for structed world model. 3. Designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
   * Advisor: Prof. Tieniu Tan and Prof. Zhang Zhang
