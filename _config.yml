@@ -86,7 +86,7 @@ author:
   location         : "Guangzhou, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #TODO googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lUnt8X4AAAAJ&hl=zh-CN"
   email            : "yifanzhang.cs@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
