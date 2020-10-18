@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Computer Science, 2017-2021(expected)
 * South China University of Technology
-* Major GPA: 3.98/4.0 (Overall GPA: 3.95/4.0)
+* Major GPA: 3.98/4.0 (Overall GPA: 3.95/4.0)(Ranking: 1/134)
 
 Work experience
 ======
