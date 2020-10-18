@@ -11,7 +11,7 @@ title                    : "Yifan Zhang (张一帆)"
 title_separator          : "-"
 name                     : &name "Yifan Zhang"
 description              : &description "Undergraduate student in South China University of Technology"
-url                      : https://cshlzhang.yfZhangCs.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yfZhangCs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yfZhangCs/yfZhangCs.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : #"hanlin-zhang-931b46143/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"HanlinZhang_"
   vine             :
   weibo            :
   xing             :
