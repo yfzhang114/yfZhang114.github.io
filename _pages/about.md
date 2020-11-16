@@ -13,8 +13,8 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 
 **Research Interests**
 * Unsupervised Learning: Deep Generative Models, Object Oriented Learning
-* Computer Vision: Pedestrian Re-IDentification, Object Detection
-* Causality: Causal Inference
+* Computer Vision: Pedestrian Re-IDentification, Object Detection, Transfer Learning
+* Causality: Causal Inference, Out of Distribution Generalization
 * Internet of Things: CrowdSourcing, Incentive Mechanism Design
 
 ## Selected Publications
