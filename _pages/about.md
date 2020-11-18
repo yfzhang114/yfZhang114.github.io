@@ -24,9 +24,6 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 
 2. Yifan Zhang, Xinglin Zhang. ["BundleSense: A Task-Bundling-Based Incentive Mechanism for Mobile Crowd Sensing"](../files/BundleIncentive-icccn.pdf). International Conference on Computer Communications and Networks (**ICCCN 2020**)
 
-**2019**
-
- 国家专利："一种基于动态模拟的飞机离场放行排序方法"
 
 ## Work experience
 
@@ -46,6 +43,7 @@ platforms, and federal learning platforms.
   
 ## Honors and Awards
 
+* 华南理工大学十大三好学生标兵提名 (¥ 10000), 2020
 * GuangFa Futures Scholarship (¥ 3000), 2020.
 * National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2020.
 * Hongping Evergreen Foundation Students Science and Technology Innovation Competition First-class Scholarship (¥ 3000), 2020.
