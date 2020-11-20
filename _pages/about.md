@@ -43,6 +43,7 @@ platforms, and federal learning platforms.
   
 ## Honors and Awards
 
+* 何镜堂科技创新奖学金 (¥ 20000), 2020
 * 华南理工大学十大三好学生标兵提名 (¥ 10000), 2020
 * GuangFa Futures Scholarship (¥ 3000), 2020.
 * National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2020.
