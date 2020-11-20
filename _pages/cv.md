@@ -36,11 +36,7 @@ Honors and Awards
 
 * 何镜堂科技创新奖学金 (¥ 20000), 2020
 * 华南理工大学十大三好学生标兵提名 (¥ 10000), 2020
-* GuangFa Futures Scholarship (¥ 3000), 2020.
-* National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2020.
-* Hongping Evergreen Foundation Students Science and Technology Innovation Competition First-class Scholarship (¥ 3000), 2020.
-* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
-* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), Provincial first prize, 2019.
-* GuangFa Futures Scholarship (¥ 3000), 2019.
-* National Inspirational Scholarship (¥5000, ranking: 1st / 134), 2019.
-* National Inspirational Scholarship (¥5000, ranking: 1st / 37), 2018.
+* 广发期货奖学金 (¥ 3000), 2020, 2019.
+* 国家励志奖学金 (¥5000, ranking: 1st / 37, 1st / 134, 1st / 134), 2018, 2019, 2020.
+* 宏平常青科技创新奖学金 (¥ 3000), 2020.
+* 全国大学生数学建模竞赛(CUMCM), 省级一等奖，国家级一等奖, 2019.
