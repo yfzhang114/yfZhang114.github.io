@@ -12,12 +12,12 @@ Hi, I'm a last-year undergraduate in South China University of Technology, major
 Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [web](https://yfZhangCs.github.io/cv/).
 
 **Research Interests**
-* Unsupervised Learning: Deep Generative Models, Object Oriented Learning
-* Computer Vision: Pedestrian Re-IDentification, Object Detection, Transfer Learning
+* Unsupervised Learning: Deep Generative Models, Self-Superviesed Learning
+* Computer Vision: Pedestrian Re-IDentification, Object Detection
 * Causality: Causal Inference, Out of Distribution Generalization
 * Internet of Things: CrowdSourcing, Incentive Mechanism Design
 
-## Selected Publications
+## Publications & Preprints
 **2020**
 
 1. Yifan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (**IoT-J, JCR Q1, IF > 10.5**)
@@ -30,7 +30,7 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
-  * Duties included: 1. learning Deep Generative Model for pedestrian Generation. 2. Disentangled representation learning for structed world model. 3. Designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
+  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. Designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
   * Advisor: Prof. Tieniu Tan and Prof. Zhang Zhang
 
 * April 2018 – July 2020: Research Assistant
