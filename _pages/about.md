@@ -30,7 +30,7 @@ Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [w
 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
-  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. Designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
+  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
   * Advisor: Prof. Tieniu Tan and Prof. Zhang Zhang
 
 * April 2018 – July 2020: Research Assistant
