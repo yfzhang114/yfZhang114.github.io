@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Hi, I'm a last-year undergraduate in South China University of Technology, majoring in Computer Science advised by Prof. Xinglin Zhang. I will go to the State Key Laboratory of Pattern Recognition, University of Chinese Academy of Sciences to study for a PhD in 2021, advised by [Tan Tieniu](http://people.ucas.ac.cn/~tantieniu), Academician of the Chinese Academy of Sciences.
-Here is my Curriculum Vitae in [pdf](../files/Curriculum_Vitae.pdf) or on the [web](https://yfZhangCs.github.io/cv/).
 
 **Research Interests**
 * Unsupervised Learning: Deep Generative Models, Self-Superviesed Learning
