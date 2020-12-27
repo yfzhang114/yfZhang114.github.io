@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-My <a href="https://yfZhangCs.github.io/files/Curriculum_Vitae.pdf" target="_blank">full CV in PDF</a> is also available.
 
 Education
 ======
