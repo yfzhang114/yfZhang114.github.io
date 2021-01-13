@@ -19,7 +19,7 @@ Hi, I'm a last-year undergraduate in South China University of Technology, major
 ## Publications & Preprints
 **2020**
 
-1. Yifan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (**IoT-J, JCR Q1, IF > 10.5**)
+1. Yifan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (**JCR Q1, IF > 10.5**)
 
 2. Yifan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
 
