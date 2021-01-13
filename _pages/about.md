@@ -16,7 +16,7 @@ I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, 
 * Causality: Causal Inference, Out of Distribution Generalization
 * Internet of Things: CrowdSourcing, Incentive Mechanism Design
 
-## Publications & Preprints
+## Selected Publications & Preprints
 **2020**
 
 1. Yifan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
