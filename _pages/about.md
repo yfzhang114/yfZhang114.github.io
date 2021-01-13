@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a last-year undergraduate in South China University of Technology, majoring in Computer Science advised by Prof. Xinglin Zhang. I will go to the State Key Laboratory of Pattern Recognition, University of Chinese Academy of Sciences to study for a PhD in 2021, advised by [Tan Tieniu](http://people.ucas.ac.cn/~tantieniu), Academician of the Chinese Academy of Sciences.
+I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tan Tieniu](http://people.ucas.ac.cn/~tantieniu).
 
 **Research Interests**
 * Unsupervised Learning: Deep Generative Models, Self-Superviesed Learning
@@ -19,7 +19,7 @@ Hi, I'm a last-year undergraduate in South China University of Technology, major
 ## Publications & Preprints
 **2020**
 
-1. Yifan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (**JCR Q1, IF > 10.5**)
+1. Yifan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
 
 2. Yifan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
 
@@ -44,8 +44,8 @@ platforms, and federal learning platforms.
   
 ## Selected Awards
 
-* Top Ten Best Student Models of South China University of Technology
+* Top Ten Best Student Models of South China University of Technology, 2020
   * The best honor for undergraduates in South China University of Technology
   * 华南理工大学十大三好学生标兵
-* He Jingtang Technology Innovation Scholarship (¥ 20000), 2020
+* Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
