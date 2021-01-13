@@ -45,7 +45,6 @@ platforms, and federal learning platforms.
 ## Selected Awards
 
 * Top Ten Best Student Models of South China University of Technology, 2020
-  * The best honor for undergraduates in South China University of Technology
-  * 华南理工大学十大三好学生标兵
+  * Top 10 undergraduates in South China University of Technology (Summa Cum Laude)
 * Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
