@@ -10,7 +10,7 @@ author_profile: true
 
 2. Yifan Zhang, Xinglin Zhang. ["BundleSense: A Task-Bundling-Based Incentive Mechanism for Mobile Crowd Sensing"](../files/BundleIncentive-icccn.pdf). International Conference on Computer Communications and Networks (**ICCCN 2020**)
 
-3. Yifan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](/about.html). ACM Transactions on Sensor Networks (CCF B).
+3. Yifan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
 
  **2019**
 
