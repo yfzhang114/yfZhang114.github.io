@@ -23,7 +23,7 @@ I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, 
 
 2. Yifan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
 
-3. Yifan Zhang, Weiqiang Ren, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf) under review on Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
+3. Yifan Zhang, Weiqiang Ren, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf) under review
 
 
 ## Work experience
