@@ -17,7 +17,7 @@ author_profile: true
 
 **Under Review:**
 
-1. Yifan Zhang, Weiqiang Zhang, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf) under review on Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
+1. Yifan Zhang, Weiqiang Zhang, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf) under review
 
 2. Yifan Zhang, Xinglin Zhang, ["Incentive Mechanism with Task Bundling for Mobile Crowd Sensing"](/about.html) under review on IEEE Transactions on Mobile Computing(CCF A)
 
