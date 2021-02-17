@@ -32,7 +32,8 @@ I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
   * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
-  * Advisor: Prof. Tieniu Tan and Prof. Zhang Zhang
+  * Advisor: Advisor: Prof. Tieniu Tan
+  * Co-Advisors: Prof. Zhang Zhang and Prof. Liang Wang
 
 * April 2018 – July 2020: Research Assistant
   * South China University of Technology, Guangzhou, China.
