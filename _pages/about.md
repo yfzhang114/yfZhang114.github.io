@@ -28,11 +28,14 @@ I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, 
 
 ## Work experience
 
+* March 2021 - Now: Research Assistant
+  * Microsoft Research Asia, Beijing, China.
+  * Advisor: Prof. Jindong Wang
 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
   * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
-  * Advisor: Advisor: Prof. Tieniu Tan
+  * Advisor: Prof. Tieniu Tan
   * Co-Advisors: Prof. Zhang Zhang and Prof. Liang Wang
 
 * April 2018 – July 2020: Research Assistant
