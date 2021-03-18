@@ -17,6 +17,9 @@ Education
 Work experience
 ======
 
+* March 2021 - Now: Research Assistant
+  * Microsoft Research Asia, Beijing, China.
+  * Advisor: Prof. Jindong Wang
 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
