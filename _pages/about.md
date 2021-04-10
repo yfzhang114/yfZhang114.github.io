@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu).
+I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/).
 
 **Research Interests**
 * Unsupervised Learning: Deep Generative Models, Self-Superviesed Learning
