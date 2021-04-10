@@ -17,19 +17,22 @@ Education
 Work experience
 ======
 
+
 * March 2021 - Now: Research Assistant
   * Microsoft Research Asia, Beijing, China.
+  * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
   * Advisor: Prof. Jindong Wang
 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
-  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
-  * Advisor: Advisor: Prof. Tieniu Tan
+  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing an efficient method to tackle problems in object detection and partial pedestrian re-identification.
+  * Advisor: Prof. Tieniu Tan
   * Co-Advisors: Prof. Zhang Zhang and Prof. Liang Wang
 
 * April 2018 – July 2020: Research Assistant
   * South China University of Technology, Guangzhou, China.
-  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing platforms, and federal learning platforms.
+  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
+platforms, and federal learning platforms.
   * Advisor: Prof. Xinglin Zhang
 
   
