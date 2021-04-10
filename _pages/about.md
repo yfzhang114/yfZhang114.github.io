@@ -19,22 +19,24 @@ I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, 
 ## Selected Publications & Preprints
 **2020**
 
-1. Yifan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
+1. Yi-Fan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
 
-2. Yifan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
+2. Yi-Fan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
 
-3. Yifan Zhang, Weiqiang Ren, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf) under review
+3. Yi-Fan Zhang, Weiqiang Ren, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf) Preprint
+4. Yi-Fan Zhang, Hanlin Zhang, Zhang Zhang, Da Li, Zhen Jia, Liang Wang, Tieniu Tan. ["Learning Domain Invariant Representations for Generalizable Person Re-Identification"]((../files/DIR-ReID.pdf)). Preprint.
 
 
 ## Work experience
 
 * March 2021 - Now: Research Assistant
   * Microsoft Research Asia, Beijing, China.
+  * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
   * Advisor: Prof. Jindong Wang
 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
-  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing effeiceient method to tackle problems in object detection and partial pedestrian re-identification.
+  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing an efficient method to tackle problems in object detection and partial pedestrian re-identification.
   * Advisor: Prof. Tieniu Tan
   * Co-Advisors: Prof. Zhang Zhang and Prof. Liang Wang
 
