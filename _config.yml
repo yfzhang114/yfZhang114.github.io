@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Guangzhou-CN"
-title                    : "Yifan Zhang (张一帆)"
+title                    : "Yi-Fan Zhang (张一帆)"
 title_separator          : "-"
-name                     : &name "Yifan Zhang"
+name                     : &name "Yi-Fan Zhang"
 description              : &description "Undergraduate student in South China University of Technology"
 url                      : https://yfZhangCs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
