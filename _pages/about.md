@@ -32,13 +32,13 @@ I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, 
 * March 2021 - Now: Research Assistant
   * Microsoft Research Asia, Beijing, China.
   * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
-  * Advisor: Prof. Jindong Wang
+  * Advisor: Prof. [Jingdong Wang](https://jingdongwang2017.github.io/)
 
 * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
   * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing an efficient method to tackle problems in object detection and partial pedestrian re-identification.
-  * Advisor: Prof. Tieniu Tan
-  * Co-Advisors: Prof. Zhang Zhang and Prof. Liang Wang
+  * Advisor: Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu)
+  * Co-Advisors: Prof. [Zhang Zhang](https://scholar.google.com/citations?user=rnRNwEMAAAAJ&hl=en) and Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN)
 
 * April 2018 – July 2020: Research Assistant
   * South China University of Technology, Guangzhou, China.
