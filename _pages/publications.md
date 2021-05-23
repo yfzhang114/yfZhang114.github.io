@@ -11,12 +11,8 @@ author_profile: true
 3. Yi-Fan Zhang, Xinglin Zhang. ["BundleSense: A Task-Bundling-Based Incentive Mechanism for Mobile Crowd Sensing"](../files/BundleIncentive-icccn.pdf). International Conference on Computer Communications and Networks (ICCCN 2020)
 
 
- **2019**
-
- 国家专利："一种基于动态模拟的飞机离场放行排序方法"
-
-**Under Review:**
+**Preprints:**
 
 1. Yifan Zhang, Weiqiang Zhang, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf).  Preprint
 2. Yi-Fan Zhang, Hanlin Zhang, Zhang Zhang, Da Li, Zhen Jia, Liang Wang, Tieniu Tan. ["Learning Domain Invariant Representations for Generalizable Person Re-Identification"]((../files/DIR-ReID.pdf)). Preprint.
-3. Yi-Fan Zhang, Xinglin Zhang, ["Incentive Mechanism with Task Bundling for Mobile Crowd Sensing"](/about.html) under review on IEEE Transactions on Mobile Computing(CCF A)
+3. Yi-Fan Zhang, Xinglin Zhang, ["Incentive Mechanism with Task Bundling for Mobile Crowd Sensing"](/about.html)
