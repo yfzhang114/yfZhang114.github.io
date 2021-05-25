@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Guangzhou-CN"
+locale                   : "Beijing-CN"
 title                    : "Yi-Fan Zhang (张一帆)"
 title_separator          : "-"
 name                     : &name "Yi-Fan Zhang"
 description              : &description "Undergraduate student in South China University of Technology"
-url                      : https://yfZhangCs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yfzhang114.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yfZhangCs/yfZhangCs.github.io" # TODO
+repository               : "yfzhang114/yfzhang114.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Yi-Fan Zhang"
   avatar           : "profile.jpg"
   bio              : "Undergraduate student in South China University of Technology"
-  location         : "Guangzhou, China"
+  location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lUnt8X4AAAAJ&hl=zh-CN"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yfZhangCs"
+  github           : "yfzhang114"
   google_plus      :
   keybase          :
   instagram        :
