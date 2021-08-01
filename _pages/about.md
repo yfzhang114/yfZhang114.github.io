@@ -19,13 +19,13 @@ I'm an incoming PhD student at the State Key Laboratory of Pattern Recognition, 
 ## Selected Publications & Preprints
 **2020**
 
-1. Yi-Fan Zhang, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
+1. **Yi-Fan Zhang**, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
 
-2. Yi-Fan Zhang, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
+2. **Yi-Fan Zhang**, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
 
-3. Yi-Fan Zhang, Weiqiang Ren, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf) Preprint
-4. Yi-Fan Zhang, Hanlin Zhang, Zhang Zhang, Da Li, Zhen Jia, Liang Wang, Tieniu Tan. ["Learning Domain Invariant Representations for Generalizable Person Re-Identification"]((../files/DIR-ReID.pdf)). Preprint.
+3. Hanlin Zhang*; **Yi-Fan Zhang** *; Weiyang Liu; Adrian Weller; Bernhard Schölkopf; Eric Xing [Towards Principled Disentanglement for Domain Generalization](https://sites.google.com/view/ml4data/accepted-papers),  In the ICML Workshop on Machine Learning for Data: Automated Creation, Privacy, Bias, 2021.
 
+_(* denotes equal contribution.)_
 
 ## Work experience
 
