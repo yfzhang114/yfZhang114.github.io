@@ -11,9 +11,9 @@ redirect_from:
 I'm the first year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/).
 
 **Research Interests**
-* Unsupervised Learning: Deep Generative Models, Self-Superviesed Learning
-* Computer Vision: Pedestrian Re-IDentification, Object Detection
-* Causality: Causal Inference, Out of Distribution Generalization
+
+* Computer Vision: Pedestrian Re-IDentification, Object Detection, Deep Generative Models
+* Machine Learning: Causal Inference, Out of Distribution Generalization, Domain Adaptation
 * Internet of Things: CrowdSourcing, Incentive Mechanism Design
 
 ## Selected Publications & Preprints
