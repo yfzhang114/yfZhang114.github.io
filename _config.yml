@@ -10,7 +10,7 @@ locale                   : "Beijing-CN"
 title                    : "Yi-Fan Zhang (张一帆)"
 title_separator          : "-"
 name                     : &name "Yi-Fan Zhang"
-description              : &description "Undergraduate student in South China University of Technology"
+description              : &description "The first fear Ph.D. student @CASIA, NLPR, advised by Prof. Tieniu Tan. Formerly @microsoft Research Asia."
 url                      : https://yfzhang114.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yfzhang114/yfzhang114.github.io" # TODO
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yi-Fan Zhang"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate student in South China University of Technology"
+  bio              : "The first fear Ph.D. student @CASIA, NLPR, advised by Prof. Tieniu Tan. Formerly @microsoft Research Asia."
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
