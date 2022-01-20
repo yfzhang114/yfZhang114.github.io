@@ -14,5 +14,5 @@ author_profile: true
 **Preprints:**
 
 1. Yifan Zhang, Weiqiang Zhang, Zhen Jia, Zhang Zhang, Liang Wang, Tieniu Tan, ["Focal and Efficient IOU Loss for Accurate Bounding Box Regression"](../files/cvpr_final.pdf).  Preprint
-2. Yi-Fan Zhang, Hanlin Zhang, Zhang Zhang, Da Li, Zhen Jia, Liang Wang, Tieniu Tan. ["Learning Domain Invariant Representations for Generalizable Person Re-Identification"]((../files/DIR-ReID.pdf)). Preprint.
+2. Yi-Fan Zhang, Zhang Zhang, Da Li, Zhen Jia, Liang Wang, Tieniu Tan. ["Learning Domain Invariant Representations for Generalizable Person Re-Identification"]((../files/DIR-ReID.pdf)). Preprint.
 3. Yi-Fan Zhang, Xinglin Zhang, ["Incentive Mechanism with Task Bundling for Mobile Crowd Sensing"](/about.html)
