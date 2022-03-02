@@ -16,19 +16,29 @@ I'm the first year PhD student at the State Key Laboratory of Pattern Recognitio
 * Machine Learning: Causal Inference, Out of Distribution Generalization, Domain Adaptation
 * Internet of Things: CrowdSourcing, Incentive Mechanism Design
 
-## Selected Publications & Preprints
-**2020**
+# 🔥 News
+- *2022.03*: &nbsp;🎉🎉 Towards Principled Disentanglement for Domain Generalization is accepted by CVPR 2022;
 
-1. **Yi-Fan Zhang**, Xinglin Zhang, and Feng Li. ["BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing"](../files/BiCrowd-IOT-J.pdf). IEEE Internet of Things Journal (JCR Q1)
+# 📝 Publications 
 
-2. **Yi-Fan Zhang**, Xinglin Zhang, ["Price Learning Based Incentive Mechanism for Mobile Crowd Sensing"](../files/bundleSense.pdf). ACM Transactions on Sensor Networks (CCF B).
+<div class='paper-box'><div class='paper-box-image'><img src='images/DDG.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-3. Hanlin Zhang*; **Yi-Fan Zhang** *; Weiyang Liu; Adrian Weller; Bernhard Schölkopf; Eric Xing [Towards Principled Disentanglement for Domain Generalization](https://sites.google.com/view/ml4data/accepted-papers),  In the ICML Workshop on Machine Learning for Data: Automated Creation, Privacy, Bias, 2021.
+[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839), Hanlin Zhang*, Yi-Fan Zhang*, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing
+
+**CVPR, 2022 |  ICML Workshop on Machine Learning for Data: Automated Creation, Privacy, Bias, 2021.** \| [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lUnt8X4AAAAJ&citation_for_view=lUnt8X4AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [**Code**](https://github.com/hlzhang109/DDG)
+-  DDG jointly learns semantic and variation encoders for disentanglement, enabling flexible manipulation and augmentation on training data. 
+</div>
+</div>
 
 _(* denotes equal contribution.)_
+# 🎖 Selected Awards
+* Top Ten Best Student Models of South China University of Technology, 2020
+  * Top 10 undergraduates in South China University of Technology (Summa Cum Laude)
+* Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
+* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
 
-## Work experience
-
+# 📖 Work experience
 * March 2021 - Now: Research Assistant
   * Microsoft Research Asia, Beijing, China.
   * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
@@ -46,11 +56,9 @@ _(* denotes equal contribution.)_
 platforms, and federal learning platforms.
   * Advisor: Prof. Xinglin Zhang
 
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-  
-## Selected Awards
-
-* Top Ten Best Student Models of South China University of Technology, 2020
-  * Top 10 undergraduates in South China University of Technology (Summa Cum Laude)
-* Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
-* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
