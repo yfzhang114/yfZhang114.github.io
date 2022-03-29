@@ -16,17 +16,15 @@ I'm the first year PhD student at the State Key Laboratory of Pattern Recognitio
 * Machine Learning: Causal Inference, Out of Distribution Generalization, Domain Adaptation
 * Internet of Things: CrowdSourcing, Incentive Mechanism Design
 
-# 🔥 News
-- *2022.03*: &nbsp;🎉🎉 Towards Principled Disentanglement for Domain Generalization is accepted by CVPR 2022;
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/DDG.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839), Hanlin Zhang*, Yi-Fan Zhang*, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing
+[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839), _Hanlin Zhang*, Yi-Fan Zhang*, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing_
 
-**CVPR, 2022 |  ICML Workshop on Machine Learning for Data: Automated Creation, Privacy, Bias, 2021.** \| [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lUnt8X4AAAAJ&citation_for_view=lUnt8X4AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [**Code**](https://github.com/hlzhang109/DDG)
+CVPR, 2022，**Oral** \| [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lUnt8X4AAAAJ&citation_for_view=lUnt8X4AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [**Code**](https://github.com/hlzhang109/DDG)
 -  DDG jointly learns semantic and variation encoders for disentanglement, enabling flexible manipulation and augmentation on training data. 
 </div>
 </div>
