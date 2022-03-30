@@ -19,17 +19,30 @@ I'm the first year PhD student at the State Key Laboratory of Pattern Recognitio
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/DDG.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839), _Hanlin Zhang*, Yi-Fan Zhang*, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing_
+[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839) \| CVPR 2022 **Oral** \| [**Code**](https://github.com/hlzhang109/DDG)
 
-CVPR, 2022，**Oral** \| [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=lUnt8X4AAAAJ&citation_for_view=lUnt8X4AAAAJ:eQOLeE2rZwMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [**Code**](https://github.com/hlzhang109/DDG)
--  DDG jointly learns semantic and variation encoders for disentanglement, enabling flexible manipulation and augmentation on training data. 
+  _Hanlin Zhang*, **Yi-Fan Zhang***, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing_
 </div>
+
+
+<div class='paper-box-text' markdown="1">
+
+[Can Transformers be Strong Treatment Effect Estimators?](https://arxiv.org/abs/2202.01336) \| Preprint \| [**Code**](https://github.com/hlzhang109/TransTEE)
+
+_**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| Preprint \|
+
+_**Yi-Fan Zhang***, Weiqiang Ren, Zhang Zhang, Zhen Jia, Liang Wang, Tieniu Tan_
 </div>
 
 _(* denotes equal contribution.)_
+
 # 🎖 Selected Awards
 * Top Ten Best Student Models of South China University of Technology, 2020
   * Top 10 undergraduates in South China University of Technology (Summa Cum Laude)
