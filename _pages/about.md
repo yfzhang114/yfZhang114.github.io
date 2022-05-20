@@ -29,7 +29,7 @@ I'm the first year PhD student at the State Key Laboratory of Pattern Recognitio
 
 <div class='paper-box-text' markdown="1">
 
-[Can Transformers be Strong Treatment Effect Estimators?](https://arxiv.org/abs/2202.01336) \| Preprint \| [**Code**](https://github.com/hlzhang109/TransTEE)
+[Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) \| Preprint \| [**Code**](https://github.com/hlzhang109/TransTEE)
 
 _**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
 </div>
