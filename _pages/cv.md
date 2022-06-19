@@ -42,8 +42,7 @@ Honors and Awards
 
 * Top Ten Best Student Models of South China University of Technology, 2020
   * The best honor for undergraduates in South China University of Technology
-  * 华南理工大学十大三好学生标兵
-* Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
+* Jingtang He Technology Innovation Scholarship, 2020
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
 * National Inspirational Scholarship (¥5000, ranking: 1st / 37, 1st / 134, 1st / 134), 2018, 2019, 2020.
-* "Hong Ping Chang Qing" Technology Innovation Scholarship (¥ 3000), 2020.
+* "Hong Ping Chang Qing" Technology Innovation Scholarship, 2020.
