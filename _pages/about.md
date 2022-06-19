@@ -46,7 +46,7 @@ _(* denotes equal contribution.)_
 # 🎖 Selected Awards
 * Top Ten Best Student Models of South China University of Technology, 2020
   * Top 10 undergraduates in South China University of Technology (Summa Cum Laude)
-* Jingtang He Technology Innovation Scholarship (¥ 20000), 2020
+* Jingtang He Technology Innovation Scholarship, 2020
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
 
 # 📖 Work experience
