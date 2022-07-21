@@ -55,22 +55,13 @@ PC Member/Reviewer for: ICML (2022), NeurIPS (2022), ECCV (2022)
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
 
 # 📖 Work experience
-* March 2021 - Now: Research Assistant
-  * Microsoft Research Asia, Beijing, China.
-  * Duties included: 1. Design more powerful and simple object detection architecture based on the Transformer. 2. Understand NLP tasks such as NLI and exploit new paradigms to solve them more efficiently.
-  * Advisor: Prof. [Jingdong Wang](https://jingdongwang2017.github.io/)
+* May 2022 - Now: Research Assistant on **Alibaba DAMO**.
+* March 2021 - July: Research Assistant on **Microsoft Research Asia**.
 
-* August 2020 - Now: Research Assistant
+<!-- * August 2020 - Now: Research Assistant
   * University of Chinese Academy of Sciences, Beijing, China.
-  * Duties included: 1. learning deep generative model for pedestrian generation. 2. cross-domain Re-ID from a causal view. 3. designing an efficient method to tackle problems in object detection and partial pedestrian re-identification.
-  * Advisor: Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu)
-  * Co-Advisors: Prof. [Zhang Zhang](https://scholar.google.com/citations?user=rnRNwEMAAAAJ&hl=en) and Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN)
+  * Advisor: Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu), Co-Advisors: Prof. [Zhang Zhang](https://scholar.google.com/citations?user=rnRNwEMAAAAJ&hl=en) and Prof. [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN) -->
 
-* April 2018 – July 2020: Research Assistant
-  * South China University of Technology, Guangzhou, China.
-  * Duties included: Incentive mechanism design for crowdsourcing platforms, edge computing
-platforms, and federal learning platforms.
-  * Advisor: Prof. Xinglin Zhang
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
