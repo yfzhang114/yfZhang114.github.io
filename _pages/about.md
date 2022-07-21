@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the first year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/).
+I'm the second year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/).
 
 **Research Interests**
 
@@ -36,12 +36,17 @@ _**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
 
 <div class='paper-box-text' markdown="1">
 
-[Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| Preprint \|
+[Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| Neurocomputing \|
 
 _**Yi-Fan Zhang***, Weiqiang Ren, Zhang Zhang, Zhen Jia, Liang Wang, Tieniu Tan_
 </div>
 
 _(* denotes equal contribution.)_
+
+# Service
+
+PC Member/Reviewer for: ICML (2022), NeurIPS (2022), ECCV (2022)
+
 
 # 🎖 Selected Awards
 * Top Ten Best Student Models of South China University of Technology, 2020
