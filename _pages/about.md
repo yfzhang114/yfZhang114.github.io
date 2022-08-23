@@ -45,7 +45,7 @@ _(* denotes equal contribution.)_
 
 # Service
 
-PC Member/Reviewer for: ICML (2022), NeurIPS (2022), ECCV (2022)
+PC Member/Reviewer for: ICML (2022), NeurIPS (2022), ECCV (2022), AAAI (2023)
 
 
 # 🎖 Selected Awards
