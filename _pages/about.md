@@ -29,14 +29,21 @@ I'm the second year PhD student at the State Key Laboratory of Pattern Recogniti
 
 <div class='paper-box-text' markdown="1">
 
-[Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) \| Preprint \| [**Code**](https://github.com/hlzhang109/TransTEE)
+[Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) \| NeurIPS ML Safety Workshop, 2022. \| [**Code**](https://github.com/hlzhang109/TransTEE)
 
 _**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-[Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| Neurocomputing \|
+[The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning](https://openreview.net/forum?id=qLgQpeQX3x1) \| NeurIPS Neuro Causal and Symbolic AI Workshop, 2022. \|
+
+_**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| Neurocomputing 506, 146-157	 \|
 
 _**Yi-Fan Zhang***, Weiqiang Ren, Zhang Zhang, Zhen Jia, Liang Wang, Tieniu Tan_
 </div>
@@ -45,7 +52,7 @@ _(* denotes equal contribution.)_
 
 # Service
 
-PC Member/Reviewer for: ICML (2022), NeurIPS (2022), ECCV (2022), AAAI (2023)
+PC Member/Reviewer for: ICML (2022), NeurIPS (2022), ECCV (2022), AAAI (2023), CVPR (2023)
 
 
 # 🎖 Selected Awards
