@@ -38,14 +38,14 @@ _**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
 
 [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://openreview.net/forum?id=qLgQpeQX3x1) \| ICLR, 2023. \|
 
-_**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
+_**Yi-Fan Zhang**, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
 </div>
 
 <div class='paper-box-text' markdown="1">
 
 [Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| Neurocomputing 506, 146-157	 \|
 
-_**Yi-Fan Zhang***, Weiqiang Ren, Zhang Zhang, Zhen Jia, Liang Wang, Tieniu Tan_
+_**Yi-Fan Zhang**, Weiqiang Ren, Zhang Zhang, Zhen Jia, Liang Wang, Tieniu Tan_
 </div>
 
 _(* denotes equal contribution.)_
