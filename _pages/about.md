@@ -36,7 +36,7 @@ _**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
 
 <div class='paper-box-text' markdown="1">
 
-[The Impact of Symbolic Representations on In-context Learning for Few-shot Reasoning](https://openreview.net/forum?id=qLgQpeQX3x1) \| NeurIPS Neuro Causal and Symbolic AI Workshop, 2022. \|
+[Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://openreview.net/forum?id=qLgQpeQX3x1) \| ICLR, 2023. \|
 
 _**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
 </div>
@@ -52,7 +52,7 @@ _(* denotes equal contribution.)_
 
 # Service
 
-PC Member/Reviewer for: ICML (2022), NeurIPS (2022), ECCV (2022), AAAI (2023), CVPR (2023)
+PC Member/Reviewer for: ICML (2022,2023), NeurIPS (2022), ECCV (2022), AAAI (2023), CVPR (2023)
 
 
 # 🎖 Selected Awards
