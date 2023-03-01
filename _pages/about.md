@@ -8,16 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm the second year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/).
+I'm the second year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).
 
 **Research Interests**
 
 * Computer Vision: Pedestrian Re-IDentification, Object Detection, Deep Generative Models
 * Machine Learning: Causal Inference, Out of Distribution Generalization, Domain Adaptation
-* Internet of Things: CrowdSourcing, Incentive Mechanism Design
+* Application: Robust time series classification & forecasting.
 
+# 🔥 News
+- *2023.01* 🎉🎉 [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) has been accepted by **ICLR 2023**. [[Code]](https://github.com/yfzhang114/Environment-Label-Smoothing)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/600466715)
+- *2023.01* 🎉🎉 [Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549/) has been accepted by **IEEE Transactions on Image Processing (T-IP)**.
+- *2022.11* 🎉🎉 [Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) has been accepted by **NeurIPS ML Safety** workshop. [[Code]](https://github.com/hlzhang109/TransTEE)
+- *2022.04* 🎉🎉 Towards Principled Disentanglement for Domain Generalization has been selected for an CVPR **ORAL** presentation. :blush: [[Reading Notes]](https://zhuanlan.zhihu.com/p/477855079) [[Code]](https://github.com/hlzhang109/DDG)  [[paper]](https://arxiv.org/abs/2111.13839)
 
 # Publications 
+
 
 <div class='paper-box-text' markdown="1">
 
@@ -36,10 +42,18 @@ _**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
 
 <div class='paper-box-text' markdown="1">
 
-[Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://openreview.net/forum?id=qLgQpeQX3x1) \| ICLR, 2023. \|
+[Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549) \| IEEE T-IP, 2023. \|
+
+_**Yi-Fan Zhang**; Zhang Zhang; Da Li; Zhen Jia; Liang Wang; Tieniu Tann_
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) \| ICLR, 2023. \|
 
 _**Yi-Fan Zhang**, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
 </div>
+
 
 <div class='paper-box-text' markdown="1">
 
