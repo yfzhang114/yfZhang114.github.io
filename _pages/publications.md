@@ -7,9 +7,16 @@ author_profile: true
 
 **2023**
 
-[Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) \| ICLR, 2023. \|
 
-**Yi-Fan Zhang**, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan
+[AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/abs/2304.12566) \|  **ICML, 2023** \| [[Code]](https://github.com/yfzhang114/AdaNPC) \| [[Reading Notes]](https://zhuanlan.zhihu.com/p/624770864) \|
+
+_**Yi-Fan Zhang**, Xue Wang, Kexin Jin, Kun Yuan, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
+
+
+[Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) \| **ICLR, 2023** \| [[Code]](https://github.com/yfzhang114/Environment-Label-Smoothing) \|  [[Reading Notes]](https://zhuanlan.zhihu.com/p/600466715) \|
+
+_**Yi-Fan Zhang**, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
+
 
 [Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549) \| IEEE T-IP, 2023. \|
 
