@@ -21,7 +21,7 @@ I'm the second year PhD student at the State Key Laboratory of Pattern Recogniti
 - *2023.01* 🎉🎉 [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) has been accepted by **ICLR 2023**. [[Code]](https://github.com/yfzhang114/Environment-Label-Smoothing)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/600466715)
 - *2023.01* 🎉🎉 [Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549/) has been accepted by **IEEE Transactions on Image Processing (T-IP)**.
 - *2022.11* 🎉🎉 [Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) has been accepted by **NeurIPS ML Safety** workshop. [[Code]](https://github.com/hlzhang109/TransTEE)
-- *2022.04* 🎉🎉 Towards Principled Disentanglement for Domain Generalization has been selected for an CVPR **ORAL** presentation. :blush: [[Reading Notes]](https://zhuanlan.zhihu.com/p/477855079) [[Code]](https://github.com/hlzhang109/DDG)  [[paper]](https://arxiv.org/abs/2111.13839)
+- *2022.04* 🎉🎉 [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839) has been selected for an **CVPR Oral** presentation. [[Reading Notes]](https://zhuanlan.zhihu.com/p/477855079) [[Code]](https://github.com/hlzhang109/DDG)
 
 # Publications 
 
