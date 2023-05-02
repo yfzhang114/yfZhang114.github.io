@@ -17,6 +17,7 @@ I'm the second year PhD student at the State Key Laboratory of Pattern Recogniti
 * Application: Robust time series classification & forecasting.
 
 # 🔥 News
+- *2023.05* 🎉🎉 [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/abs/2304.12566) has been accepted by **ICML 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/624770864)
 - *2023.01* 🎉🎉 [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) has been accepted by **ICLR 2023**. [[Code]](https://github.com/yfzhang114/Environment-Label-Smoothing)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/600466715)
 - *2023.01* 🎉🎉 [Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549/) has been accepted by **IEEE Transactions on Image Processing (T-IP)**.
 - *2022.11* 🎉🎉 [Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) has been accepted by **NeurIPS ML Safety** workshop. [[Code]](https://github.com/hlzhang109/TransTEE)
@@ -25,31 +26,17 @@ I'm the second year PhD student at the State Key Laboratory of Pattern Recogniti
 # Publications 
 
 
-<div class='paper-box-text' markdown="1">
-
-[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839) \| CVPR 2022 **Oral** \| [**Code**](https://github.com/hlzhang109/DDG)
-
-  _Hanlin Zhang*, **Yi-Fan Zhang***, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing_
-</div>
-
 
 <div class='paper-box-text' markdown="1">
 
-[Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) \| NeurIPS ML Safety Workshop, 2022. \| [**Code**](https://github.com/hlzhang109/TransTEE)
+[AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/abs/2304.12566) \|  **ICML, 2023** \| [[Code]](https://github.com/yfzhang114/AdaNPC) \| [[Reading Notes]](https://zhuanlan.zhihu.com/p/624770864) \|
 
-_**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
+_**Yi-Fan Zhang**, Xue Wang, Kexin Jin, Kun Yuan, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-[Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549) \| IEEE T-IP, 2023. \|
-
-_**Yi-Fan Zhang**; Zhang Zhang; Da Li; Zhen Jia; Liang Wang; Tieniu Tann_
-</div>
-
-<div class='paper-box-text' markdown="1">
-
-[Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) \| ICLR, 2023. \|
+[Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) \| **ICLR, 2023** \| [[Code]](https://github.com/yfzhang114/Environment-Label-Smoothing) \|  [[Reading Notes]](https://zhuanlan.zhihu.com/p/600466715) \|
 
 _**Yi-Fan Zhang**, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
 </div>
@@ -57,7 +44,29 @@ _**Yi-Fan Zhang**, xue wang, Jian Liang, Zhang Zhang, Liang Wang, Rong Jin, Tien
 
 <div class='paper-box-text' markdown="1">
 
-[Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| Neurocomputing 506, 146-157	 \|
+[Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839) \| **CVPR 2022 Oral** \| [**Code**](https://github.com/hlzhang109/DDG)
+
+  _Hanlin Zhang*, **Yi-Fan Zhang***, Weiyang Liu, Adrian Weller, Bernhard Schölkopf, Eric P. Xing_
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Exploring Transformer Backbones for Heterogeneous Treatment Effect Estimation](https://arxiv.org/abs/2202.01336) \| **NeurIPS ML Safety Workshop, 2022** \| [**Code**](https://github.com/hlzhang109/TransTEE)
+
+_**Yi-Fan Zhang***, Hanlin Zhang*, Zachary Lipton, Li Erran Li, Eric Xing_
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549) \| **IEEE T-IP, 2023** \|
+
+_**Yi-Fan Zhang**; Zhang Zhang; Da Li; Zhen Jia; Liang Wang; Tieniu Tann_
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+
+[Focal and efficient IOU loss for accurate bounding box regression](https://arxiv.org/abs/2101.08158) \| **Neurocomputing, 2022**	 \|
 
 _**Yi-Fan Zhang**, Weiqiang Ren, Zhang Zhang, Zhen Jia, Liang Wang, Tieniu Tan_
 </div>
