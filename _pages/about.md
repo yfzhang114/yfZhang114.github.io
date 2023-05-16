@@ -79,10 +79,9 @@ PC Member/Reviewer for: ICML (2022,2023), NeurIPS (2022,2023), ECCV (2022), AAAI
 
 
 # 🎖 Selected Awards
-* Top Ten Best Student Models of South China University of Technology, 2020
-  * Top 10 undergraduates in South China University of Technology (Summa Cum Laude)
-* Jingtang He Technology Innovation Scholarship, 2020
-* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
+* Top Ten Best Student Models of South China University of Technology (Summa Cum Laude), 2020
+* Jingtang He Technology Innovation Scholarship (Top 1‰, 5 out of 10000+ in university), 2020
+* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize (Top 1% globally), 2019.
 
 # 📖 Work experience
 * May 2022 - Now: Research Assistant on **Alibaba DAMO**.
