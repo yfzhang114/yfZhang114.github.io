@@ -8,6 +8,11 @@ author_profile: true
 **2023**
 
 
+[Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/abs/2208.08661) \|  **SIGKDD, 2023** \| [[Code]](https://github.com/yfzhang114/AdaNPC) \|
+
+_**Yi-Fan Zhang**, Jindong Wang, Jian Liang, Zhang Zhang, Baosheng Yu, Liang Wang, Dacheng Tao, Xing Xie_
+
+
 [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/abs/2304.12566) \|  **ICML, 2023** \| [[Code]](https://github.com/yfzhang114/AdaNPC) \| [[Reading Notes]](https://zhuanlan.zhihu.com/p/624770864) \|
 
 _**Yi-Fan Zhang**, Xue Wang, Kexin Jin, Kun Yuan, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
