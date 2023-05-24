@@ -17,7 +17,7 @@ I'm the second year PhD student at the State Key Laboratory of Pattern Recogniti
 * Application: Robust time series classification & forecasting.
 
 # 🔥 News
-- *2023.05* 🎉🎉 [Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/abs/2208.08661) has been accepted by **SIGKDD 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)
+- *2023.05* 🎉🎉 [Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/abs/2208.08661) has been accepted by **SIGKDD 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)[[Reading Notes]](https://zhuanlan.zhihu.com/p/631524930)
 - *2023.05* 🎉🎉 [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/abs/2304.12566) has been accepted by **ICML 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/624770864)
 - *2023.01* 🎉🎉 [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) has been accepted by **ICLR 2023**. [[Code]](https://github.com/yfzhang114/Environment-Label-Smoothing)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/600466715)
 - *2023.01* 🎉🎉 [Learning Domain Invariant Representations for Generalizable Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/9997549/) has been accepted by **IEEE Transactions on Image Processing (T-IP)**.
