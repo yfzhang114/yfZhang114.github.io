@@ -10,11 +10,14 @@ redirect_from:
 
 I'm the second year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).
 
-**Research Interests**
+My research interest lies in the development of robust and reliable machine learning (ML) systems that can effectively handle unexpected inputs and distribution shifts. While conventional software systems are expected to provide warnings for unexpected inputs, ML systems often fail silently due to their strong dependence on specific input properties, such as the assumption of independent and identically distributed (i.i.d.) data. In light of this challenge, my research aims to address three critical objectives. 
 
-* Computer Vision: Pedestrian Re-IDentification, Object Detection, Deep Generative Models
-* Machine Learning: Causal Inference, Out of Distribution Generalization, Domain Adaptation
-* Application: Robust time series classification & forecasting.
+1. Firstly, I seek to develop innovative techniques to **detect and identify distribution shifts** in ML systems. This involves exploring statistical and machine learning methods that can effectively capture changes in data distributions and trigger appropriate responses. 
+2. Secondly, I am interested in developing methods that can **dynamically adapt and correct classifiers on the fly**, responding to distribution shifts in real-time when possible, this involves investigating approaches such as online learning, active learning, and adaptive algorithms that can update models and decision boundaries based on evolving data distributions.
+3. Ultimately, my work aims to contribute to the development of foundational principles for building ML systems that can be **relied upon in real-world scenarios**, providing practical guidance for implementing robust and dependable ML systems.
+
+
+
 
 # 🔥 News
 - *2023.05* 🎉🎉 [Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/abs/2208.08661) has been accepted by **SIGKDD 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)[[Reading Notes]](https://zhuanlan.zhihu.com/p/631524930)
