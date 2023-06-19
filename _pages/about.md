@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the second year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).
+I'm the second year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).    I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. *If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you*.
 
 My research interest lies in the development of **robust and reliable machine learning (ML) systems** that can effectively handle unexpected inputs and distribution shifts. While conventional software systems are expected to provide warnings for unexpected inputs, ML systems often fail silently due to their strong dependence on specific input properties, such as the assumption of independent and identically distributed (i.i.d.) data. In light of this challenge, my research aims to address three critical objectives. 
 
