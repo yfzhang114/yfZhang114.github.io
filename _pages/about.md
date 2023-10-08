@@ -20,6 +20,7 @@ My research interest lies in the development of **robust and reliable machine le
 
 
 # 🔥 News
+- *2023.10* 🎉🎉 [OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659) has been accepted by **NeurIPS 2023**. [[Code]](https://github.com/yfzhang114/OneNet)[[Reading Notes]](https://zhuanlan.zhihu.com/p/658191974)
 - *2023.05* 🎉🎉 [Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/abs/2208.08661) has been accepted by **SIGKDD 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)[[Reading Notes]](https://zhuanlan.zhihu.com/p/631524930)
 - *2023.05* 🎉🎉 [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/abs/2304.12566) has been accepted by **ICML 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/624770864)
 - *2023.01* 🎉🎉 [Free Lunch for Domain Adversarial Training: Environment Label Smoothing](https://arxiv.org/abs/2302.00194) has been accepted by **ICLR 2023**. [[Code]](https://github.com/yfzhang114/Environment-Label-Smoothing)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/600466715)
@@ -28,6 +29,13 @@ My research interest lies in the development of **robust and reliable machine le
 - *2022.04* 🎉🎉 [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839) has been selected for an **CVPR Oral** presentation. [[Reading Notes]](https://zhuanlan.zhihu.com/p/477855079) [[Code]](https://github.com/hlzhang109/DDG)
 
 # Publications 
+
+<div class='paper-box-text' markdown="1">
+
+[OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659) \|  **NeurIPS, 2023** \| [[Code]](NeurIPS) \|
+
+_**Yi-Fan Zhang**, Qingsong Wen, Xue Wang, Weiqi Chen, Liang Sun, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
+</div>
 
 <div class='paper-box-text' markdown="1">
 
