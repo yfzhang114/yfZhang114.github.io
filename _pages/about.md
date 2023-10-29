@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm the second year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).    I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. *If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you*.
+I'm a third-year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).    I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. *If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you*.
 
 My research interest lies in the development of **robust and reliable machine learning (ML) systems** that can effectively handle unexpected inputs and distribution shifts. While conventional software systems are expected to provide warnings for unexpected inputs, ML systems often fail silently due to their strong dependence on specific input properties, such as the assumption of independent and identically distributed (i.i.d.) data. In light of this challenge, my research aims to address three critical objectives. 
 
 1. Firstly, I seek to develop innovative techniques to **detect and identify distribution shifts** in ML systems. This involves exploring statistical and machine learning methods that can effectively capture changes in data distributions and trigger appropriate responses. 
 2. Secondly, I am interested in developing methods that can **dynamically adapt and correct classifiers on the fly**, responding to distribution shifts in real-time when possible, this involves investigating approaches such as online learning, active learning, and adaptive algorithms that can update models and decision boundaries based on evolving data distributions.
-3. Ultimately, my work aims to contribute to the development of foundational principles for building ML systems that can be **relied upon in real-world scenarios**, providing practical guidance for implementing robust and dependable ML systems.
-
-
+3. Ultimately, my work aims to contribute to developing foundational principles for building ML systems that can be **relied upon in real-world scenarios**, providing practical guidance for implementing robust and dependable ML systems.
 
 
 # 🔥 News
@@ -92,13 +90,16 @@ _(* denotes equal contribution.)_
 
 # Service
 
-💻 Conference: PC Member/Reviewer for: ICML (2022,2023), NeurIPS (2022,2023), ECCV (2022), AAAI (2023,2024), CVPR (2022,2023), ICCV (2023), ICLR (2023,2024), EMNLP (2023)
+💻 Conference: PC Member/Reviewer for: ICML (2022,2023), NeurIPS (2022,2023), ECCV (2022), AAAI (2023,2024), CVPR (2022,2023,2024), ICCV (2023), ICLR (2023,2024), EMNLP (2023)
 
-💻 Workshops: PC Member for: MILETS@PAKDD'23, DMLR@ICML'23
+💻 Journal: PC Member/Reviewer for IEEE Transactions on Image Processing, 
+
+💻 Workshops: PC Member for MILETS@PAKDD'23, DMLR@ICML'23
 
 
 
 # 🎖 Selected Awards
+* University of Chinese Academy of Sciences 三好学生标兵，国家奖学金, 2023
 * Top Ten Best Student Models of South China University of Technology (Summa Cum Laude), 2020
 * Jingtang He Technology Innovation Scholarship (Top 1‰, 5 out of 10000+ in university), 2020
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize (Top 1% globally), 2019.
