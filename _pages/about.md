@@ -18,6 +18,7 @@ My research interest lies in the development of **robust and reliable machine le
 
 
 # 🔥 News
+- *2023.12* 🎉 I will be contributing as a reviewer for IEEE TIP, International Journal of Computer Vision (IJCV), CVPR 2024, and NAACL 2024.
 - *2023.10* 🎉🎉 [OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659) has been accepted by **NeurIPS 2023**. [[Code]](https://github.com/yfzhang114/OneNet)[[Reading Notes]](https://zhuanlan.zhihu.com/p/658191974)
 - *2023.05* 🎉🎉 [Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/abs/2208.08661) has been accepted by **SIGKDD 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)[[Reading Notes]](https://zhuanlan.zhihu.com/p/631524930)
 - *2023.05* 🎉🎉 [AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation](https://arxiv.org/abs/2304.12566) has been accepted by **ICML 2023**. [[Code]](https://github.com/yfzhang114/AdaNPC)  [[Reading Notes]](https://zhuanlan.zhihu.com/p/624770864)
@@ -90,9 +91,9 @@ _(* denotes equal contribution.)_
 
 # Service
 
-💻 Conference: PC Member/Reviewer for: ICML (2022,2023), NeurIPS (2022,2023), ECCV (2022), AAAI (2023,2024), CVPR (2022,2023,2024), ICCV (2023), ICLR (2023,2024), EMNLP (2023)
+💻 Conference: PC Member/Reviewer for: ICML (2022,2023), NeurIPS (2022,2023), ECCV (2022), AAAI (2023,2024), CVPR (2022,2023,2024), ICCV (2023), ICLR (2023,2024), EMNLP (2023), NAACL (2024)
 
-💻 Journal: PC Member/Reviewer for IEEE Transactions on Image Processing, 
+💻 Journal: PC Member/Reviewer for IEEE Transactions on Image Processing, International Journal of Computer Vision (IJCV)
 
 💻 Workshops: PC Member for MILETS@PAKDD'23, DMLR@ICML'23
 
