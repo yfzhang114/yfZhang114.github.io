@@ -28,6 +28,18 @@ My research interest lies in the development of **robust and reliable machine le
 - *2022.04* 🎉🎉 [Towards Principled Disentanglement for Domain Generalization](https://arxiv.org/abs/2111.13839) has been selected for an **CVPR Oral** presentation. [[Reading Notes]](https://zhuanlan.zhihu.com/p/477855079) [[Code]](https://github.com/hlzhang109/DDG)
 
 # Publications 
+<div class='paper-box-text' markdown="1">
+
+[A Study on the Calibration of In-context Learning](https://arxiv.org/abs/2312.04021) \|  **NeurIPS, 2023, Workshop** \|
+
+_Hanlin Zhang, **Yi-Fan Zhang**, Yaodong Yu, Dhruv Madeka, Dean Foster, Eric Xing, Himabindu Lakkaraju, Sham Kakade_
+</div>
+<div class='paper-box-text' markdown="1">
+
+[OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659) \|  **NeurIPS, 2023** \| [[Code]](NeurIPS) \|
+
+_**Yi-Fan Zhang**, Qingsong Wen, Xue Wang, Weiqi Chen, Liang Sun, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan_
+</div>
 
 <div class='paper-box-text' markdown="1">
 
