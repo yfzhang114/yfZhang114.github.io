@@ -31,7 +31,7 @@ My research interest lies in the development of **robust and reliable machine le
 # Publications 
 <div class='paper-box-text' markdown="1">
 
-[A Study on the Calibration of In-context Learning](https://arxiv.org/abs/2312.04021) \|  **NAACL, 2024, Workshop** \|
+[A Study on the Calibration of In-context Learning](https://arxiv.org/abs/2312.04021) \|  **NAACL, 2024** \|
 
 _Hanlin Zhang, **Yi-Fan Zhang**, Yaodong Yu, Dhruv Madeka, Dean Foster, Eric Xing, Himabindu Lakkaraju, Sham Kakade_
 </div>
