@@ -18,6 +18,7 @@ My research interest lies in the development of **robust and reliable machine le
 
 
 # 🔥 News
+- *2024.06* 🎉🎉 [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/abs/2406.08487) [[Code]](https://github.com/yfzhang114/SliME) has been released.
 - *2024.03* 🎉🎉 two of our papers considering [In-context-learning](https://arxiv.org/abs/2312.04021) and [symbolic reasoning](https://arxiv.org/abs/2212.08686) have been accepted by NAACL 2024! 
 - *2023.12* 🎉🎉 I will be contributing as a reviewer for IEEE TIP, International Journal of Computer Vision (IJCV), CVPR 2024, and NAACL 2024.
 - *2023.10* 🎉🎉 [OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling](https://arxiv.org/abs/2309.12659) has been accepted by **NeurIPS 2023**. [[Code]](https://github.com/yfzhang114/OneNet)[[Reading Notes]](https://zhuanlan.zhihu.com/p/658191974)
