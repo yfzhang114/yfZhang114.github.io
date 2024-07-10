@@ -10,11 +10,9 @@ redirect_from:
 
 I'm a third-year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).    I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. *If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you*.
 
-My research interest lies in the development of **robust and reliable machine learning (ML) systems** that can effectively handle unexpected inputs and distribution shifts. While conventional software systems are expected to provide warnings for unexpected inputs, ML systems often fail silently due to their strong dependence on specific input properties, such as the assumption of independent and identically distributed (i.i.d.) data. In light of this challenge, my research aims to address three critical objectives. 
+My research focuses on the development of **robust and reliable machine learning (ML) systems** capable of effectively managing unexpected inputs and distribution shifts. Additionally, my work aims to establish foundational principles for constructing systems that can be depended upon in real-world scenarios, especially when deploying **large pretrained multimodal models and language models**. This includes ensuring these systems maintain high performance and reliability under varied and unforeseen conditions, thereby enhancing their practical applicability and trustworthiness.
 
-1. Firstly, I seek to develop innovative techniques to **detect and identify distribution shifts** in ML systems. This involves exploring statistical and machine learning methods that can effectively capture changes in data distributions and trigger appropriate responses. 
-2. Secondly, I am interested in developing methods that can **dynamically adapt and correct classifiers on the fly**, responding to distribution shifts in real-time when possible, this involves investigating approaches such as online learning, active learning, and adaptive algorithms that can update models and decision boundaries based on evolving data distributions.
-3. Ultimately, my work aims to contribute to developing foundational principles for building ML systems that can be **relied upon in real-world scenarios**, providing practical guidance for implementing robust and dependable ML systems.
+
 
 
 # 🔥 News
@@ -99,9 +97,9 @@ _(* denotes equal contribution.)_
 
 # Service
 
-💻 Conference: PC Member/Reviewer for: ICML (2022,2023), NeurIPS (2022,2023), ECCV (2022), AAAI (2023,2024), CVPR (2022,2023,2024), ICCV (2023), ICLR (2023,2024), EMNLP (2023), NAACL (2024)
+💻 Conference: PC Member/Reviewer for: ICML (2022,2023,2024), NeurIPS (2022,2023,2024), ECCV (2022,2024), AAAI (2023,2024), CVPR (2022,2023,2024), ICCV (2023), ICLR (2023,2024), EMNLP (2023,2024), NAACL (2024)
 
-💻 Journal: PC Member/Reviewer for IEEE Transactions on Image Processing, International Journal of Computer Vision (IJCV)
+💻 Journal: PC Member/Reviewer for IEEE Transactions on Image Processing, International Journal of Computer Vision (IJCV), Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 💻 Workshops: PC Member for MILETS@PAKDD'23, DMLR@ICML'23
 
@@ -114,7 +112,8 @@ _(* denotes equal contribution.)_
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize (Top 1% globally), 2019.
 
 # 📖 Work experience
-* May 2022 - Now: Research Assistant on **Alibaba DAMO**.
+* Mar 2024 - Now: Research Assistant on **Squirrel AI**.
+* May 2022 - Dec 2023: Research Assistant on **Alibaba DAMO**.
 * March 2021 - July: Research Assistant on **Microsoft Research Asia**.
 
 <a href="https://info.flagcounter.com/bfsA"><img src="https://s11.flagcounter.com/count2/bfsA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
