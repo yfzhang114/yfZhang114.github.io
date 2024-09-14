@@ -16,6 +16,7 @@ My research focuses on the development of **robust and reliable machine learning
 
 
 # 🔥 News
+- *2024.09* 🎉🎉 [MME-RealWorld](https://arxiv.org/abs/2406.08487) [[Project Page]](https://mme-realworld.github.io/) has been released. which contains 13K high-quality images, annotated by 32 volunteers, resulting in 29K question-answer pairs that cover 43 subtasks across 5 real-world scenarios. As far as we know, MME-RealWorld is the largest manually annotated benchmark to date, featuring the highest resolution and a targeted focus on real-world applications.
 - *2024.06* 🎉🎉 [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/abs/2406.08487) [[Code]](https://github.com/yfzhang114/SliME) has been released.
 - *2024.03* 🎉🎉 two of our papers considering [In-context-learning](https://arxiv.org/abs/2312.04021) and [symbolic reasoning](https://arxiv.org/abs/2212.08686) have been accepted by NAACL 2024! 
 - *2023.12* 🎉🎉 I will be contributing as a reviewer for IEEE TIP, International Journal of Computer Vision (IJCV), CVPR 2024, and NAACL 2024.
@@ -97,9 +98,16 @@ _(* denotes equal contribution.)_
 
 # Service
 
-💻 Conference: PC Member/Reviewer for: ICML (2022,2023,2024), NeurIPS (2022,2023,2024), ECCV (2022,2024), AAAI (2023,2024), CVPR (2022,2023,2024), ICCV (2023), ICLR (2023,2024), EMNLP (2023,2024), NAACL (2024)
+💻 Conference: PC Member/Reviewer for: 
+- ICML (2022,2023,2024), NeurIPS (2022,2023,2024), ICLR (2023,2024),
+- ECCV (2022,2024),  CVPR (2022,2023,2024), ICCV (2023),
+- AAAI (2023,2024), EMNLP (2023,2024), NAACL (2024)
 
-💻 Journal: PC Member/Reviewer for IEEE Transactions on Image Processing, International Journal of Computer Vision (IJCV), Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+💻 Journal:  PC Member/Reviewer
+- IEEE Transactions on Image Processing (TIP)
+- International Journal of Computer Vision (IJCV)
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Machine Learning Research (TMLR)
 
 💻 Workshops: PC Member for MILETS@PAKDD'23, DMLR@ICML'23
 
