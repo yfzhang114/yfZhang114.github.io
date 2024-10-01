@@ -99,7 +99,7 @@ _(* denotes equal contribution.)_
 # Service
 
 💻 Conference: PC Member/Reviewer for: 
-- ICML (2022,2023,2024), NeurIPS (2022,2023,2024), ICLR (2023,2024),
+- ICML (2022,2023,2024), NeurIPS (2022,2023,2024), ICLR (2023,2024), AISTATS (2025)
 - ECCV (2022,2024),  CVPR (2022,2023,2024), ICCV (2023),
 - AAAI (2023,2024), EMNLP (2023,2024), NAACL (2024)
 
@@ -114,6 +114,7 @@ _(* denotes equal contribution.)_
 
 
 # 🎖 Selected Awards
+* Top cited paper in Neurocomputing, 2023
 * University of Chinese Academy of Sciences 三好学生标兵，国家奖学金, 2023
 * Top Ten Best Student Models of South China University of Technology (Summa Cum Laude), 2020
 * Jingtang He Technology Innovation Scholarship (Top 1‰, 5 out of 10000+ in university), 2020
