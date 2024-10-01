@@ -108,6 +108,7 @@ _(* denotes equal contribution.)_
 - International Journal of Computer Vision (IJCV)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Machine Learning Research (TMLR)
+- IEEE Transactions on Information Forensics & Security (T-IFS)
 
 💻 Workshops: PC Member for MILETS@PAKDD'23, DMLR@ICML'23
 
