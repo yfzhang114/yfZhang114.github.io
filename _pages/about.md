@@ -10,13 +10,29 @@ redirect_from:
 
 I'm a third-year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).    I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. *If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you*.
 
-My research focuses on the development of **robust and reliable machine learning (ML) systems** capable of effectively managing unexpected inputs and distribution shifts. Additionally, my work aims to establish foundational principles for constructing systems that can be depended upon in real-world scenarios, especially when deploying **large pretrained multimodal models and language models**. This includes ensuring these systems maintain high performance and reliability under varied and unforeseen conditions, thereby enhancing their practical applicability and trustworthiness.
+I am actively seeking research positions in both industry and academia. My primary research focuses on the training and evaluation of multimodal large-scale models, with particular interest in developing efficient alignment strategies and comprehensive evaluation frameworks for vision-language systems.
+
+# Research Highlights
+
+1. **Multimodal Model Training:** My work focuses on training advanced multimodal models, with particular emphasis on high-resolution models like the [SliME](https://github.com/yfzhang114/SliME) and omni-MLLMs like VITA series ([Vita, Vita 1.5](https://github.com/VITA-MLLM/VITA), [Long Vita](https://github.com/VITA-MLLM/Long-VITA)) projects. 
+
+2. **Model Evaluation:** I lead and participate several research projects aimed at improving the evaluation processes for large-scale models, including the [MME-Realworld](https://mme-realworld.github.io/) (ICLR 25), [ErrorRadar](https://arxiv.org/abs/2410.04509) (ICLR 25 Workshop) and [MME-Survey](https://arxiv.org/abs/2411.15296) projects. My work focuses on evaluating the performance of models in real-world environments and the design of evaluation frameworks like [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) [2k star+].
+
+3. **Post-Training & Alignment for Multimodal Models**: My research includes the development of post-training techniques for multimodal models, such as [MM-RLHF](https://mm-rlhf.github.io/) and [DAMO](https://arxiv.org/abs/2502.01943), and [surveys of MLLM Alignment](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) to ensure the alignment and ethical usage of large-scale models. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
+
+
 
 
 
 
 # 🔥 News
-- *2024.09* 🎉🎉 [MME-RealWorld](https://arxiv.org/abs/2406.08487) [[Project Page]](https://mme-realworld.github.io/) has been released. which contains 13K high-quality images, annotated by 32 volunteers, resulting in 29K question-answer pairs that cover 43 subtasks across 5 real-world scenarios. As far as we know, MME-RealWorld is the largest manually annotated benchmark to date, featuring the highest resolution and a targeted focus on real-world applications.
+
+> We have presented a [**comprehensive survey**](https://arxiv.org/pdf/2411.15296) on the evaluation of large multi-modality models, jointly with [**Opencompass Team**](https://opencompass.org.cn/home) and [**LMMs-Lab**](https://lmms-lab.github.io) 🔥🔥🔥
+
+> We have presented [**Aligning Multimodal LLM with Human Preference: A Survey**](https://arxiv.org/abs/2503.14504) on the RLHF of large multi-modality models [reading note](https://zhuanlan.zhihu.com/p/31278114666) 🔥🔥🔥
+
+- *2025.02* 🎉🎉We present [MM-RLHF](https://github.com/yfzhang114/MM-RLHF), a comprehensive dataset of 120K fully human-annotated preference data, along with a robust reward model and training algorithm, designed to enhance MLLM alignment and significantly improve performance across 27 benchmark tasks.
+- *2025.01* 🎉🎉 [MME-RealWorld](https://arxiv.org/abs/2406.08487) [[Project Page]](https://mme-realworld.github.io/) has been accepted by ICLR.
 - *2024.06* 🎉🎉 [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/abs/2406.08487) [[Code]](https://github.com/yfzhang114/SliME) has been released.
 - *2024.03* 🎉🎉 two of our papers considering [In-context-learning](https://arxiv.org/abs/2312.04021) and [symbolic reasoning](https://arxiv.org/abs/2212.08686) have been accepted by NAACL 2024! 
 - *2023.12* 🎉🎉 I will be contributing as a reviewer for IEEE TIP, International Journal of Computer Vision (IJCV), CVPR 2024, and NAACL 2024.
