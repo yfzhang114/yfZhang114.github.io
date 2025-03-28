@@ -20,10 +20,7 @@ I am actively seeking research positions in both industry and academia. My prima
 
 3. **Post-Training & Alignment for Multimodal Models**: My research includes the development of post-training techniques for multimodal models, such as [MM-RLHF](https://mm-rlhf.github.io/) and [DAMO](https://arxiv.org/abs/2502.01943), and [surveys of MLLM Alignment](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) to ensure the alignment and ethical usage of large-scale models. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
 
-
-
-
-
+Full publication list can be found in [google scholar](https://scholar.google.com/citations?user=lUnt8X4AAAAJ&hl=zh-CN)
 
 # 🔥 News
 
@@ -115,9 +112,9 @@ _(* denotes equal contribution.)_
 # Service
 
 💻 Conference: PC Member/Reviewer for: 
-- ICML (2022,2023,2024), NeurIPS (2022,2023,2024), ICLR (2023,2024), AISTATS (2025)
-- ECCV (2022,2024),  CVPR (2022,2023,2024), ICCV (2023),
-- AAAI (2023,2024), EMNLP (2023,2024), NAACL (2024)
+- ICML (2022,2023,2024,2025), NeurIPS (2022,2023,2024), ICLR (2023,2024,2025), AISTATS (2025)
+- ECCV (2022,2024),  CVPR (2022,2023,2024), ICCV (2023,2025),
+- AAAI (2023,2024), EMNLP (2023,2024), NAACL (2024), ACL (2025)
 
 💻 Journal:  PC Member/Reviewer
 - IEEE Transactions on Image Processing (TIP)
@@ -131,6 +128,7 @@ _(* denotes equal contribution.)_
 
 
 # 🎖 Selected Awards
+* AAAI Innovative Applications Award, 2025.
 * Top cited paper in Neurocomputing, 2023
 * University of Chinese Academy of Sciences 三好学生标兵，国家奖学金, 2023
 * Top Ten Best Student Models of South China University of Technology (Summa Cum Laude), 2020
@@ -138,7 +136,8 @@ _(* denotes equal contribution.)_
 * Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize (Top 1% globally), 2019.
 
 # 📖 Work experience
-* Mar 2024 - Now: Research Assistant on **Squirrel AI**.
+* Dec 2024 - Now: Research Assistant on **Kwaishou**.
+* Mar 2024 - Dec 2024: Research Assistant on **Squirrel AI**.
 * May 2022 - Dec 2023: Research Assistant on **Alibaba DAMO**.
 * March 2021 - July: Research Assistant on **Microsoft Research Asia**.
 
