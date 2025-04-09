@@ -16,7 +16,7 @@ I am actively seeking research positions in both industry and academia. My prima
 
 1. **Multimodal Model Training:** My work focuses on training advanced multimodal models, with particular emphasis on high-resolution models like the [SliME](https://github.com/yfzhang114/SliME) and omni-MLLMs like VITA series ([Vita, Vita 1.5](https://github.com/VITA-MLLM/VITA), [Long Vita](https://github.com/VITA-MLLM/Long-VITA)) projects. 
 
-2. **Model Evaluation:** I lead and participate several research projects aimed at improving the evaluation processes for large-scale models, including the [MME-Realworld](https://mme-realworld.github.io/) (ICLR 25), [ErrorRadar](https://arxiv.org/abs/2410.04509) (ICLR 25 Workshop) and [MME-Survey](https://arxiv.org/abs/2411.15296) projects. My work focuses on evaluating the performance of models in real-world environments and the design of evaluation frameworks like [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) [2k star+].
+2. **Model Evaluation:** I lead and participate several research projects aimed at improving the evaluation processes for large-scale models, including the [MME-Realworld](https://mme-realworld.github.io/) (ICLR 25), [ErrorRadar](https://arxiv.org/abs/2410.04509) (ICLR 25 Workshop), [MME-Unify](https://mme-unify.github.io/) and [MME-Survey](https://arxiv.org/abs/2411.15296) projects. My work focuses on evaluating the performance of models in real-world environments and the design of evaluation frameworks like [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) [2k star+].
 
 3. **Post-Training & Alignment for Multimodal Models**: My research includes the development of post-training techniques for multimodal models, such as [MM-RLHF](https://mm-rlhf.github.io/) and [DAMO](https://arxiv.org/abs/2502.01943), and [surveys of MLLM Alignment](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) to ensure the alignment and ethical usage of large-scale models. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
 
@@ -28,6 +28,7 @@ Full publication list can be found in [google scholar](https://scholar.google.co
 
 > We have presented [**Aligning Multimodal LLM with Human Preference: A Survey**](https://arxiv.org/abs/2503.14504) on the RLHF of large multi-modality models [reading note](https://zhuanlan.zhihu.com/p/31278114666) 🔥🔥🔥
 
+- *2025.04* 🎉🎉 We present [MME-Unify](https://mme-unify.github.io/), a comprehensive benchmark for unified multimodal models (GPT-4o, Gemini-2-flash, Janus-Pro, EMU3, Show-o, VILA-U).
 - *2025.02* 🎉🎉We present [MM-RLHF](https://github.com/yfzhang114/MM-RLHF), a comprehensive dataset of 120K fully human-annotated preference data, along with a robust reward model and training algorithm, designed to enhance MLLM alignment and significantly improve performance across 27 benchmark tasks.
 - *2025.01* 🎉🎉 [MME-RealWorld](https://arxiv.org/abs/2406.08487) [[Project Page]](https://mme-realworld.github.io/) has been accepted by ICLR.
 - *2024.06* 🎉🎉 [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/abs/2406.08487) [[Code]](https://github.com/yfzhang114/SliME) has been released.
