@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).    I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. *If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you*.
+I'm a forth-year PhD student at the State Key Laboratory of Pattern Recognition, the University of Chinese Academy of Sciences, advised by Prof. [Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). I have also spent time at Microsoft, advised by Prof. [Jingdong Wang](https://jingdongwang2017.github.io/), alibaba DAMO Academy, work with Prof. [Rong Jin](https://scholar.google.com/citations?user=CS5uNscAAAAJ&hl=zh-CN).    I strongly believe in the power of interdisciplinary collaboration and the potential it holds for driving impactful research outcomes. *If you are interested in partnering on research projects, offering internship opportunities or exchange programs, I would be thrilled to connect with you*.
 
 I am actively seeking research positions in both industry and academia. My primary research focuses on the training and evaluation of multimodal large-scale models, with particular interest in developing efficient alignment strategies and comprehensive evaluation frameworks for vision-language systems.
 
