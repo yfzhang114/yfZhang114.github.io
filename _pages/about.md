@@ -14,11 +14,19 @@ I am actively seeking research positions in both industry and academia. My prima
 
 # Research Highlights
 
-1. **Multimodal Model Training:** My work focuses on training advanced multimodal models, with particular emphasis on high-resolution models like the [SliME](https://github.com/yfzhang114/SliME) and omni-MLLMs like VITA series ([Vita, Vita 1.5](https://github.com/VITA-MLLM/VITA), [Long Vita](https://github.com/VITA-MLLM/Long-VITA)) projects. 
+Here's the improved version of the text for your CV:
 
-2. **Model Evaluation:** I lead and participate several research projects aimed at improving the evaluation processes for large-scale models, including the [MME-Realworld](https://mme-realworld.github.io/) (ICLR 25), [ErrorRadar](https://arxiv.org/abs/2410.04509) (ICLR 25 Workshop), [MME-Unify](https://mme-unify.github.io/) and [MME-Survey](https://arxiv.org/abs/2411.15296) projects. My work focuses on evaluating the performance of models in real-world environments and the design of evaluation frameworks like [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) [2k star+].
+---
 
-3. **Post-Training & Alignment for Multimodal Models**: My research includes the development of post-training techniques for multimodal models, such as [MM-RLHF](https://mm-rlhf.github.io/) (ICML 25) and [DAMO](https://arxiv.org/abs/2502.01943) (ICML 25), and [surveys of MLLM Alignment](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment) to ensure the alignment and ethical usage of large-scale models. These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
+**Research Highlights**
+
+1. **Multimodal Model Training:** My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as [SliME](https://github.com/yfzhang114/SliME) and omni-MLLMs, including the VITA series ([Vita, Vita 1.5](https://github.com/VITA-MLLM/VITA), [Long Vita](https://github.com/VITA-MLLM/Long-VITA)) projects.
+
+2. **Model Evaluation:** I lead and contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [MME-Realworld](https://mme-realworld.github.io/) (ICLR 25), [ErrorRadar](https://arxiv.org/abs/2410.04509) (ICLR 25 Workshop), [MME-Unify](https://mme-unify.github.io/), and [MME-Survey](https://arxiv.org/abs/2411.15296). My focus is on evaluating model performance in real-world settings and designing evaluation frameworks, such as [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) (2k+ stars).
+
+3. **Post-Training and Alignment for Multimodal Models:** My work also includes the development of post-training techniques for multimodal models, such as [MM-RLHF](https://mm-rlhf.github.io/) (ICML 25) and [DAMO](https://arxiv.org/abs/2502.01943) (ICML 25), along with [R1-Reward](https://github.com/yfzhang114/r1_reward) and [surveys of MLLM Alignment](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment). These projects examine how to optimize model behavior after initial training to adapt to specific tasks and ensure responsible AI deployment.
+
+4. **Applications of Multimodal Large Models:** My research extends to applications of multimodal large models in various domains, including [time-series data](https://arxiv.org/abs/2402.02713) (ICML 2024), [education](https://arxiv.org/abs/2409.09403) (AAAI 25 AI Innovation in Application Award), and [detection of low-quality short video](https://kuaimod.github.io/).
 
 Full publication list can be found in [google scholar](https://scholar.google.com/citations?user=lUnt8X4AAAAJ&hl=zh-CN)
 
