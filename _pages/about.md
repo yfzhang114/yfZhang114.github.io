@@ -30,6 +30,7 @@ Full publication list can be found in [google scholar](https://scholar.google.co
 
 > We have presented [**Aligning Multimodal LLM with Human Preference: A Survey**](https://arxiv.org/abs/2503.14504) on the RLHF of large multi-modality models [reading note](https://zhuanlan.zhihu.com/p/31278114666) 🔥🔥🔥
 
+- *2025.05* 🎉🎉 We present [R1-Reward](https://github.com/yfzhang114/r1_reward) [[Reading Notes]](https://zhuanlan.zhihu.com/p/1903095194166997749), which is a comprehensive project focused on enhancing multimodal reward modeling through reinforcement learning.
 - *2025.05* 🎉🎉 [MM-RLHF](https://github.com/yfzhang114/MM-RLHF) and [DAMO](https://arxiv.org/abs/2502.01943) have been accepted by ICML 25!
 - *2025.04* 🎉🎉 We present [MME-Unify](https://mme-unify.github.io/), a comprehensive benchmark for unified multimodal models (GPT-4o, Gemini-2-flash, Janus-Pro, EMU3, Show-o, VILA-U).
 - *2025.02* 🎉🎉We present [MM-RLHF](https://github.com/yfzhang114/MM-RLHF), a comprehensive dataset of 120K fully human-annotated preference data, along with a robust reward model and training algorithm, designed to enhance MLLM alignment and significantly improve performance across 27 benchmark tasks.
