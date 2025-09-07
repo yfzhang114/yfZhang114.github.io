@@ -14,7 +14,7 @@ I am actively seeking research positions in both industry and academia. My prima
 
 # Research Highlights
 
-1. **Multimodal Model Training:** My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as [SliME](https://github.com/yfzhang114/SliME) and omni-MLLMs, including the VITA series ([Vita, Vita 1.5](https://github.com/VITA-MLLM/VITA)), and general MLLMs including [Long Vita](https://github.com/VITA-MLLM/Long-VITA), [Kwai Keye-VL](https://github.com/Kwai-Keye/Keye), projects.
+1. **Multimodal Model Training:** My research focuses on the training of advanced multimodal models, with a particular emphasis on high-resolution models such as [SliME](https://github.com/yfzhang114/SliME) and omni-MLLMs, including the VITA series ([Vita, Vita 1.5](https://github.com/VITA-MLLM/VITA)), general MLLMs including [Long Vita](https://github.com/VITA-MLLM/Long-VITA), [Kwai Keye-VL](https://github.com/Kwai-Keye/Keye), [Kwai Keye-VL 1.5](https://arxiv.org/abs/2509.01563), and Agentic MLLMs such as [Thyme: Think Beyond Images](https://thyme-vl.github.io/) projects.
 
 2. **Model Evaluation:** I lead and contribute to multiple research initiatives aimed at enhancing the evaluation processes for large-scale models. This includes projects such as [MME-Realworld](https://mme-realworld.github.io/) (ICLR 25), [ErrorRadar](https://arxiv.org/abs/2410.04509) (ICLR 25 Workshop), [MME-Unify](https://mme-unify.github.io/), [MME-VideoOCR](https://github.com/FrankYang-17/MME-VideoOCR) and [MME-Survey](https://arxiv.org/abs/2411.15296). My focus is on evaluating model performance in real-world settings and designing evaluation frameworks, such as [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) (2k+ stars).
 
@@ -30,6 +30,7 @@ Full publication list can be found in [google scholar](https://scholar.google.co
 
 > We have presented [**Aligning Multimodal LLM with Human Preference: A Survey**](https://arxiv.org/abs/2503.14504) on the RLHF of large multi-modality models [reading note](https://zhuanlan.zhihu.com/p/31278114666) 🔥🔥🔥
 
+- *2025.09* 🎉🎉 We present [Thyme](https://thyme-vl.github.io/) [[Reading Notes]](https://zhuanlan.zhihu.com/p/1942175827547649963), Thyme transcends traditional ``thinking with images'' paradigms by autonomously generating and executing diverse image processing and computational operations through executable code.
 - *2025.07* 🎉🎉 We present [Kwai Keye-VL](https://github.com/yfzhang114/r1_reward) [[Reading Notes]](https://zhuanlan.zhihu.com/p/1924429130553857058), a cutting-edge multimodal large language model meticulously crafted by the Kwai Keye Team at Kuaishou.
 - *2025.05* 🎉🎉 We present [R1-Reward](https://github.com/yfzhang114/r1_reward) [[Reading Notes]](https://zhuanlan.zhihu.com/p/1903095194166997749), which is a comprehensive project focused on enhancing multimodal reward modeling through reinforcement learning.
 - *2025.05* 🎉🎉 [MM-RLHF](https://github.com/yfzhang114/MM-RLHF) and [DAMO](https://arxiv.org/abs/2502.01943) have been accepted by ICML 25!
